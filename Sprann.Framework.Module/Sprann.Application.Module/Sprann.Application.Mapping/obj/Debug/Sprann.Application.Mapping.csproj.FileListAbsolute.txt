@@ -1,0 +1,219 @@
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Application.Web\bin\libeay32.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Application.Web\bin\mingwm10.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Application.Web\bin\ssleay32.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Application.Web\bin\wkhtmltox0.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Application.Web\bin\libeay32.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Application.Web\bin\mingwm10.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Application.Web\bin\ssleay32.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Application.Web\bin\wkhtmltox0.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+D:\MES-BS\Sprann.Application.Web\bin\libeay32.dll
+D:\MES-BS\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+D:\MES-BS\Sprann.Application.Web\bin\mingwm10.dll
+D:\MES-BS\Sprann.Application.Web\bin\ssleay32.dll
+D:\MES-BS\Sprann.Application.Web\bin\wkhtmltox0.dll
+D:\MES-BS\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+D:\MES-BS\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+D:\MES-BS\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+D:\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+D:\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+D:\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+D:\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+E:\Working\Project\MES-BS\Sprann.Application.Web\bin\libeay32.dll
+E:\Working\Project\MES-BS\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+E:\Working\Project\MES-BS\Sprann.Application.Web\bin\mingwm10.dll
+E:\Working\Project\MES-BS\Sprann.Application.Web\bin\ssleay32.dll
+E:\Working\Project\MES-BS\Sprann.Application.Web\bin\wkhtmltox0.dll
+E:\Working\Project\MES-BS\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+E:\Working\Project\MES-BS\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+E:\Working\Project\MES-BS\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+E:\Working\Project\Bogie\MES-BS\Sprann.Application.Web\bin\libeay32.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Application.Web\bin\mingwm10.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Application.Web\bin\ssleay32.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Application.Web\bin\wkhtmltox0.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+E:\Working\Project\Bogie\MES-BS\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+E:\Working\Project\Bogie\DMSs\Sprann.Application.Web\bin\libeay32.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Application.Web\bin\mingwm10.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Application.Web\bin\ssleay32.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Application.Web\bin\wkhtmltox0.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+E:\Working\Project\Bogie\DMSs\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+D:\Project\DMS\Web\Sprann.Application.Web\bin\libeay32.dll
+D:\Project\DMS\Web\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+D:\Project\DMS\Web\Sprann.Application.Web\bin\mingwm10.dll
+D:\Project\DMS\Web\Sprann.Application.Web\bin\ssleay32.dll
+D:\Project\DMS\Web\Sprann.Application.Web\bin\wkhtmltox0.dll
+D:\Project\DMS\Web\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+D:\Project\DMS\Web\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+D:\Project\DMS\Web\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+D:\Project\MES\Sprann.Application.Web\bin\libeay32.dll
+D:\Project\MES\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+D:\Project\MES\Sprann.Application.Web\bin\mingwm10.dll
+D:\Project\MES\Sprann.Application.Web\bin\ssleay32.dll
+D:\Project\MES\Sprann.Application.Web\bin\wkhtmltox0.dll
+D:\Project\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+D:\Project\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+D:\Project\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+D:\Project\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+D:\Project\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+D:\Project\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+D:\Project\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+D:\Project\东丽塑胶\MES\Sprann.Application.Web\bin\libeay32.dll
+D:\Project\东丽塑胶\MES\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+D:\Project\东丽塑胶\MES\Sprann.Application.Web\bin\mingwm10.dll
+D:\Project\东丽塑胶\MES\Sprann.Application.Web\bin\ssleay32.dll
+D:\Project\东丽塑胶\MES\Sprann.Application.Web\bin\wkhtmltox0.dll
+D:\Project\东丽塑胶\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+D:\Project\东丽塑胶\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+D:\Project\东丽塑胶\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+D:\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\libeay32.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\mingwm10.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\ssleay32.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\wkhtmltox0.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+D:\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\libeay32.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\mingwm10.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\ssleay32.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\wkhtmltox0.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+F:\ZHENG\MES\Sprann.Application.Web\bin\libeay32.dll
+F:\ZHENG\MES\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+F:\ZHENG\MES\Sprann.Application.Web\bin\mingwm10.dll
+F:\ZHENG\MES\Sprann.Application.Web\bin\ssleay32.dll
+F:\ZHENG\MES\Sprann.Application.Web\bin\wkhtmltox0.dll
+F:\ZHENG\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+F:\ZHENG\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+F:\ZHENG\MES\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+F:\ZHENG\鸿利达\pms\Sprann.Application.Web\bin\libeay32.dll
+F:\ZHENG\鸿利达\pms\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+F:\ZHENG\鸿利达\pms\Sprann.Application.Web\bin\mingwm10.dll
+F:\ZHENG\鸿利达\pms\Sprann.Application.Web\bin\ssleay32.dll
+F:\ZHENG\鸿利达\pms\Sprann.Application.Web\bin\wkhtmltox0.dll
+F:\ZHENG\鸿利达\pms\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+F:\ZHENG\鸿利达\pms\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+F:\ZHENG\鸿利达\pms\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+B:\Sea\鸿利达\PMS\pms\Sprann.Application.Web\bin\libeay32.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Application.Web\bin\mingwm10.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Application.Web\bin\ssleay32.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Application.Web\bin\wkhtmltox0.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+B:\Sea\鸿利达\PMS\pms\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Application.Web\bin\libeay32.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Application.Web\bin\mingwm10.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Application.Web\bin\ssleay32.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Application.Web\bin\wkhtmltox0.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+D:\Work\鸿利达\PMS\Sprann.Application.Web\bin\libeay32.dll
+D:\Work\鸿利达\PMS\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+D:\Work\鸿利达\PMS\Sprann.Application.Web\bin\mingwm10.dll
+D:\Work\鸿利达\PMS\Sprann.Application.Web\bin\ssleay32.dll
+D:\Work\鸿利达\PMS\Sprann.Application.Web\bin\wkhtmltox0.dll
+D:\Work\鸿利达\PMS\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+D:\Work\鸿利达\PMS\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+D:\Work\鸿利达\PMS\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb
+C:\Users\Sweet\Desktop\Website\Sprann.Application.Web\bin\libeay32.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Application.Web\bin\libgcc_s_dw2-1.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Application.Web\bin\mingwm10.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Application.Web\bin\ssleay32.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Application.Web\bin\wkhtmltox0.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll.config
+C:\Users\Sweet\Desktop\Website\Sprann.Application.Web\bin\Sprann.Application.Mapping.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Application.Web\bin\Sprann.Application.Mapping.pdb
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csprojAssemblyReference.cache
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.csproj.CopyComplete
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Application.Module\Sprann.Application.Mapping\obj\Debug\Sprann.Application.Mapping.pdb

@@ -1,0 +1,98 @@
+﻿@{
+    ViewBag.Title = "风尚版风格";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+@Html.AppendCssFile("/Views/Home/AdminAccordion/index.css")
+<div class="sp-frame-top">
+    <div class="sp-login-gsmc">SPRANN MES系统</div>
+  @*  <a class="sp-logo-title"><img src="~/Content/images/logo_long.png" /></a>*@
+</div>
+<div class="sp-frame-menu-btn" id="sp_frame_menu_btn"><i class="fa fa-fw fa-dedent"></i></div>
+
+
+@* 即时通讯窗体 *@
+@*<div class="sp-im-bell" title="消息中心">
+    <span class="point" style="display:none;"></span>
+    <i class="fa fa-bell"></i>
+</div>*@
+
+<div class="sp-im-body">
+    <div class="sp-im-title">
+        <div class="title-item active" data-value="sp_im_msglist">
+            <i class="fa fa-commenting"></i>
+        </div>
+        <div class="title-item title-item-two" data-value="sp_im_userlist">
+            <i class="fa fa-user"></i>
+        </div>
+    </div>
+    <div id="sp_im_msglist" class="sp-im-content sp-im-msglist active">
+        <div class="sp-im-msg-list" id="sp_immsg_userlist">
+            @*<div class="msg-item">
+                <div class="photo">
+                    <img src="~/Content/images/head/on-boy.jpg">
+                    <div class="point"></div>
+                </div>
+                <div class="name">系统消息1</div>
+                <div class="msg">你已经被系统选为超级VIP成员了！</div>
+                <div class="date">2018-05-30</div>
+            </div>
+            <div class="msg-item">
+                <div class="icon">
+                    <i class="fa fa-bell"></i>
+                </div>
+                <div class="name">系统消息2</div>
+                <div class="msg">你已经被系统选为超级VIP成员了！</div>
+                <div class="date">05-30</div>
+            </div>
+            <div class="msg-item">
+                <div class="photo">
+                    <img src="~/Content/images/head/on-boy.jpg">
+                </div>
+                <div class="name">系统消息3</div>
+                <div class="msg">你已经被系统选为超级VIP成员了！</div>
+                <div class="date">14:01</div>
+            </div>*@
+        </div>
+    </div>
+    <div id="sp_im_userlist" class="sp-im-content sp-im-userlist">
+        <div class="sp-im-search">
+            <i class="fa fa-search"></i>
+            <input type="text" placeholder="搜索（Enter回车）">
+        </div>
+        <div class="sp-im-content-userlist" id="sp_im_content_userlist">
+
+        </div>
+    </div>
+</div>
+
+<div class="sp-im-black-overlay">
+    <div class="sp-im-dialog">
+        <div class="sp-im-header">
+            <span class="im-title"></span>
+            <div class="im-close">
+                <i class="fa fa-close"></i>
+            </div>
+        </div>
+
+        <div class="sp-im-msgcontent">
+            @*<div class="im-time">09:55</div>
+            <div class="im-other">
+                <div class="headimg"><img src="~/Content/images/head/on-boy.jpg"></div>
+                <div class="arrow"></div>
+                <span class="content">大宝你好，我看了下2月份的考勤记录有异常，麻烦看看是什么问题？</span>
+            </div>
+            <div class="me im-time">09:55</div>
+            <div class="im-me">
+                <div class="headimg"><img src="~/Content/images/head/on-boy.jpg"></div>
+                <div class="arrow"></div>
+                <span class="content">没有问题</span>
+            </div>*@
+        </div>
+        <div class="sp-im-msgcontent-tool"><span id="sp_im_look_msg_btn">查看消息记录</span></div>
+        <div class="sp-im-input">
+            <textarea id="sp_im_input" type="text" class="inp"></textarea>
+        </div>
+    </div>
+</div>
+
+@Html.AppendJsFile("/Views/Home/AdminAccordion/index.js")

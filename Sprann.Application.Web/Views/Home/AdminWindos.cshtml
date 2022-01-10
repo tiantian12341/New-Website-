@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "炫动版风格";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+@Html.AppendCssFile("/Views/Home/AdminWindos/index.css")
+<div class="sp-frame-top">
+    <a class="sp-logo-title">
+        <div class="sp-login-gsmc">SPRANN MES系统</div>
+        @*<img src="~/Content/images/logo_long.png" />*@
+    </a>
+</div>
+
+<div class="sp-applist-btn off" id="sp_applist_btn">应用列表</div>
+<div class="sp-applist-content" id="sp_applist_content">
+    <div class="sp-applist-slidebox-slider">
+        <ul class="sp-applist-slidebox-slider-content"></ul>
+    </div>
+    <div class="sp-applist-slidebox" id="sp_applist_slidebox"></div>
+</div>
+<div class="sp-windows-bottom-bar">
+    <div class="sp-windows-start" id="sp_windows_start" title="开始菜单"><i class="fa fa-windows"></i><span>开始菜单</span></div>
+    <div class="sp-im-bell" title="消息中心">
+        <span class="point"></span>
+        <i class="fa fa-bell"></i>
+    </div>
+</div>
+
+<div class="sp-im-body">
+    <div class="sp-im-title">
+        <div class="title-item active" data-value="sp_im_msglist">
+            消息
+        </div>
+        <div class="title-item title-item-two" data-value="sp_im_userlist">
+            联系人
+        </div>
+    </div>
+    <div id="sp_im_msglist" class="sp-im-content sp-im-msglist active">
+        <div class="sp-im-msg-list" id="sp_immsg_userlist">
+        </div>
+    </div>
+    <div id="sp_im_userlist" class="sp-im-content sp-im-userlist">
+        <div class="sp-im-search">
+            <i class="fa fa-search"></i>
+            <input type="text" placeholder="搜索（Enter回车）">
+        </div>
+        <div class="sp-im-content-userlist" id="sp_im_content_userlist">
+
+        </div>
+    </div>
+</div>
+
+<div class="sp-im-black-overlay">
+    <div class="sp-im-dialog">
+        <div class="sp-im-header">
+            <span class="im-title"></span>
+            <div class="im-close">
+                <i class="fa fa-close"></i>
+            </div>
+        </div>
+        <div class="sp-im-msgcontent">
+        </div>
+        <div class="sp-im-msgcontent-tool"><span id="sp_im_look_msg_btn">查看消息记录</span></div>
+        <div class="sp-im-input">
+            <textarea id="sp_im_input" type="text" class="inp"></textarea>
+        </div>
+    </div>
+</div>
+
+@Html.AppendJsFile("/Views/Home/AdminWindos/index.js")
+

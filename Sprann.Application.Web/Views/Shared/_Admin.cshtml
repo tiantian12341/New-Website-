@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta name="renderer" content="webkit|ie-comp|ie-stand" />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="~/hongrita.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="~/hongrita.ico" type="image/x-icon">
+
+    <title>@ViewBag.Title</title>
+    @*<link href="~/Content/pace/pace-theme-loading-bar.css" rel="stylesheet" />*@
+    <link href="~/Content/font/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/font/spfont/iconfont.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/jquery/plugin/toastr/toastr.css" rel="stylesheet" />
+
+    @Html.AppendCssFile(
+    "/Views/LR_Content/style/sp-common.min.css",
+    "/Views/LR_Content/plugin/scroll/scroll.min.css",
+    "/Views/LR_Content/style/sp-admin.min.css",
+    "/Views/LR_Content/style/sp-layer.min.css",
+    "/Views/LR_Content/plugin/contextmenu/sp-contextmenu.min.css",
+    "/Views/LR_Content/plugin/tree/sp-tree.min.css",
+    "/Views/LR_Content/plugin/select/sp-select.min.css"
+    )
+
+    @*<script src="~/Content/pace/pace.min.js"></script>*@
+    <script src="~/Content/jquery/jquery-1.10.2.min.js"></script>
+    <!--[if lt IE 9]>
+      <script src="~/Content/bootstrap/html5shiv.min.js"></script>
+      <script src="~/Content/bootstrap/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body class="@Sprann.Util.Net.Browser @Sprann.Util.WebHelper.GetUITheme()">
+    @*<div class="sp-loadbg" id="sp_loadbg"></div>*@
+    @RenderBody()
+    <div class="sp-frame-menu"><div class="sp-frame-menu-wrap" id="sp_frame_menu"></div></div>
+    <div class="sp-frame-tabs">
+        <div class="sp-frame-tabs-wrap">
+            <ul id="sp_frame_tabs_ul"></ul>
+        </div>
+    </div>
+    <div class="sp-frame-main" id="sp_frame_main">
+    @*<img src="~/Content/images/iframebg.png"/>*@
+    </div>
+
+    <script src="~/Content/bootstrap/bootstrap.min.js"></script>
+    <script src="~/Content/jquery/plugin/layer/layer.js"></script>
+    <script src="~/Content/jquery/plugin/jquery.cookie.min.js"></script>
+    <script src="~/Content/jquery/jquery.md5.min.js"></script>
+    <script src="~/Content/jquery/plugin/toastr/toastr.min.js"></script>
+
+    <script>
+        $.rootUrl = '@Url.Content("~")'.substr(0, '@Url.Content("~")'.length - 1);
+    </script>
+
+    @Html.AppendJsFile(
+    "/Views/LR_Content/plugin/resize/resize.min.js",
+    "/Views/LR_Content/plugin/mousewheel/mousewheel.min.js",
+
+    "/Views/LR_Content/script/sp-base.min.js",
+    "/Views/LR_Content/plugin/scroll/scroll.min.js",
+
+    "/Views/LR_Content/script/sp-tabs.min.js",
+    "/Views/LR_Content/script/sp-date.min.js",
+    "/Views/LR_Content/script/sp-validator-helper.min.js",
+    "/Views/LR_Content/script/sp-layer.min.js",
+    "/Views/LR_Content/script/sp-ajax.min.js",
+    "/Views/LR_Content/script/sp-clientdata.min.js",
+    "/Views/LR_Content/script/sp-language.min.js",
+
+    "/Views/LR_Content/plugin/tree/sp-tree.min.js",
+    "/Views/LR_Content/plugin/select/sp-select.min.js",
+
+    "/Views/LR_Content/plugin/workflow/sp-workflow-api.min.js",
+    "/Views/LR_Content/plugin/contextmenu/sp-contextmenu.min.js",
+
+    "/Views/LR_Content/script/sp-admin.min.js"
+    )
+</body>
+</html>
+
+
+
+
+

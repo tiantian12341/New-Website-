@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "部门管理";
+    Layout = "~/Views/Shared/_Index.cshtml";
+}
+<div class="sp-layout sp-layout-left-center" id="sp_layout">
+    <div class="sp-layout-left">
+        <div class="sp-layout-wrap">
+            <div class="sp-layout-title splg ">公司信息</div>
+            <div id="companyTree" class="sp-layout-body"></div>
+        </div>
+    </div>
+    <div class="sp-layout-center">
+        <div class="sp-layout-wrap">
+            <div class="sp-layout-title">
+                <span id="titleinfo" class="splg">未选择公司</span> - <span class="splg">部门信息</span>
+            </div>
+
+            <div class="sp-layout-tool">
+                <div class="sp-layout-tool-left">
+                    <div class="sp-layout-tool-item">
+                        <input id="txt_Keyword" type="text" class="form-control" placeholder="请输入要查询关键字" />
+                    </div>
+                    <div class="sp-layout-tool-item">
+                        <a id="btn_Search" class="btn btn-primary btn-sm"><i class="fa fa-search"></i>&nbsp;<span class="splg">查询</span></a>
+                    </div>
+                </div>
+                <div class="sp-layout-tool-right">
+                    <div class=" btn-group btn-group-sm">
+                        <a id="sp_refresh" class="btn btn-default"><i class="fa fa-refresh"></i></a>
+                    </div>
+                    <div class=" btn-group btn-group-sm" sp-authorize="yes">
+                        <a id="sp_add" class="btn btn-default"><i class="fa fa-plus"></i>&nbsp;<span class="splg">新增</span></a>
+                        <a id="sp_edit" class="btn btn-default"><i class="fa fa-pencil-square-o"></i>&nbsp;<span class="splg">编辑</span></a>
+                        <a id="sp_delete" class="btn btn-default"><i class="fa fa-trash-o"></i>&nbsp;<span class="splg">删除</span></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sp-layout-body" id="gridtable">
+            </div>
+        </div>
+    </div>
+</div>
+@Html.AppendJsFile("/Areas/LR_OrganizationModule/Views/Department/Index.js")

@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "普通表格";
+    Layout = "~/Views/Shared/_Index.cshtml";
+}
+<div class="sp-layout">
+    <div class="sp-layout-center">
+        <div class="sp-layout-wrap sp-layout-wrap-notitle">
+            <div class="sp-layout-tool">
+                <div class="sp-layout-tool-right">
+                    <div class=" btn-group btn-group-sm">
+                        <a id="sp_refresh" class="btn btn-default"><i class="fa fa-refresh"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="sp-layout-body" id="gridtable"></div>
+        </div>
+    </div>
+</div>
+@Html.AppendJsFile("/Areas/LR_CodeDemo/Views/GridDemo/CommonIndex.js")
+

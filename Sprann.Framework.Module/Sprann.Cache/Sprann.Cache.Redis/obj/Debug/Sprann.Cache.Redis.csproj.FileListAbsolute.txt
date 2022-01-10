@@ -1,0 +1,405 @@
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.AssemblyReference.cache
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.AssemblyReference.cache
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Redis.pdb
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\Sprann.Cache.Base.pdb
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Common.xml
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\bin\Debug\ServiceStack.Text.xml
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csprojAssemblyReference.cache
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CoreCompileInputs.cache
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.csproj.CopyComplete
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Cache\Sprann.Cache.Redis\obj\Debug\Sprann.Cache.Redis.pdb

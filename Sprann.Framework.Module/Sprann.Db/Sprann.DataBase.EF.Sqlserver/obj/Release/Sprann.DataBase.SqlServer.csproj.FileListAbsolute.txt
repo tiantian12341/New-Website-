@@ -1,0 +1,118 @@
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csprojAssemblyReference.cache
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CopyComplete
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csprojAssemblyReference.cache
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CopyComplete
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csprojAssemblyReference.cache
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CopyComplete
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csprojAssemblyReference.cache
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CopyComplete
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csprojAssemblyReference.cache
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CopyComplete
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csprojAssemblyReference.cache
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CopyComplete
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csprojAssemblyReference.cache
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CopyComplete
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csprojAssemblyReference.cache
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CopyComplete
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csprojAssemblyReference.cache
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CopyComplete
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csprojAssemblyReference.cache
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CopyComplete
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csprojAssemblyReference.cache
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CopyComplete
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csprojAssemblyReference.cache
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CopyComplete
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csprojAssemblyReference.cache
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CopyComplete
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CopyComplete
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll.config
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.SqlServer.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.AssemblyReference.cache
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.EF.Sqlserver\obj\Release\Sprann.DataBase.SqlServer.pdb

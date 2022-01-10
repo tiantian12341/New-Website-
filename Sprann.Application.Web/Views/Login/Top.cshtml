@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta name=”renderer” content=”webkit|ie-comp|ie-stand” />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge">
+    <meta name="keywords" content="注塑mes, 注塑行业mes, MES, 制造执行系统, 自动排程, APS" />
+    <meta name="description" content="思普瑞云MES制造执行系统是国内首选的注塑行业MES，与自动排程APS工具配合使用，可提高注塑工厂车间管理效率30%，降低注塑机器人工操作和生产成本高达50%。" />
+    <link rel="icon" href="~/logo32w.ico">
+    <title>思普瑞云：MES制造执行系统 - 登录页面</title>
+</head>
+
+<body>
+    @Html.AppendCssFile("/Views/Login/Top/Index.css")
+    <input id="errornum" type="hidden" value="@ViewBag.errornum" />
+    <div class="sp-login-body">
+        <div class="sp-login-logo">
+            @*<img src="~/Content/images/Login/short_logo.png" alt="">*@
+            <div class="sp-login-title">
+                思普瑞云
+            </div>
+         @*   <div class="sp-login-version">V1.0.0</div>*@
+        </div>
+        <div class="sp-login-middle">
+            <!--密码登录-->
+            <div class="sp-login-bypsw noreg">
+                <div class="sp-login-middle-title">
+                    歡迎登錄
+                </div>
+
+                <div class="error_info">*&nbsp;<span>密碼不正確</span></div>
+                @*<img class="sp-login-toCode" login-access="psw" src="~/Content/images/Login/blue_code.png" alt="">*@
+                <div class="sp-login-input">
+                    <div class="input-title">手機號/帳號</div>
+                     <input id="sp_username" type="text">
+                </div>
+                <div class="sp-login-input">
+                    <div class="input-title">密碼</div>
+                    <input id="sp_password" type="password">
+                    <span id="psw_change"></span>
+                </div>
+                <div class="sp-login-input sp-login-reg">
+                    <div class="input-title">驗證碼</div>
+                    <input id="sp_verifycode_input" type="text">
+                    <img class="code" id="sp_verifycode_img" src="~/Login/VerifyCode" alt="點擊切換驗證碼" title="點擊切換驗證碼" />
+                </div>
+                <div class="sp-login-btn" id="sp_login_btn"><span>登錄</span></div>
+            </div>
+
+            <!--二维码登录-->
+            <div class="sp-login-bycode">
+                <div class="sp-login-middle-title">
+                    扫码登录
+                </div>
+
+                <img class="sp-login-toCode" src="~/Content/images/Login/blue_pc.png" alt="">
+                <div class="sp-login-info">
+                    <img src="~/Content/images/Login/qrcode.png" alt="">
+                    <p>微信扫一扫 获体验资格</p>
+                </div>
+            </div>
+
+            <div class="sp-login-footer"> <p>Copyright © 2018 思普瑞云(深圳)科技有限公司 版权所有</p><p>官方网站：<a href="http://www.sprann.com" target="_blank">http://www.sprann.com</a></p></div>
+
+        </div>
+    </div>
+
+    <script src="~/Content/jquery/jquery-1.10.2.min.js"></script>
+    <script src="~/Content/jquery/jquery.md5.min.js"></script>
+    <script>
+        function request(d) { for (var c = location.search.slice(1).split("&"), a = 0; a < c.length; a++) { var b = c[a].split("="); if (b[0] == d) if ("undefined" == unescape(b[1])) break; else return unescape(b[1]) } return "" };
+        $.rootUrl = '@Url.Content("~")'.substr(0, '@Url.Content("~")'.length - 1);
+        $.spToken = $('@Html.AntiForgeryToken()').val();
+    </script>
+    @Html.AppendJsFile("/Views/Login/Top/Index.js")
+</body>
+</html>

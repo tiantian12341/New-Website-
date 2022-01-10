@@ -1,0 +1,35 @@
+﻿.sp-layout {
+    padding:0;
+    padding-top:40px;
+}
+.sp-layout-center {
+    padding:0;
+}
+.sp-layout-wrap {
+    padding:0;
+    border:0;
+}
+.sp-nav-tabs
+{
+    position: absolute;
+    top: 0;
+    height: 40px;
+    width: 100%;
+    border-bottom: 1px solid #eee;
+}
+.sp-nav-tabs>li {
+    border: 0;
+    padding: 11px 15px;
+    cursor:pointer;
+}
+.sp-nav-tabs>li.active, 
+.sp-nav-tabs>li.active:focus, 
+.sp-nav-tabs>li.active:hover {
+    color: #555;
+    cursor: default;
+    padding-bottom:10px;
+    background-color: #fff;
+    border: 0;
+    border-bottom: 2px solid #3498DB;
+}
+

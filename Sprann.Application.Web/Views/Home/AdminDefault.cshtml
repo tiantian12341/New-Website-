@@ -1,0 +1,53 @@
+﻿@{
+    ViewBag.Title = "MES制造执行系统 - 经典版风格";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+@Html.AppendCssFile("/Views/Home/AdminDefault/index.css")
+@*<img class="sp-frame-vericon" src="~/Content/images/adminDefault.png" alt="经典风格">*@
+<div class="sp-frame-top">
+    <a class="sp-logo-title">
+        @*<div class="sp-login-gsmc">SPRANN MES系统</div>*@
+        <img src="~/Content/images/YS1.png" />
+    </a>
+</div>
+@* 即时通讯窗体 *@
+@*<div class="sp-im-bell" title="消息中心">
+    <span class="point" style="display:none;"></span>
+    <i class="fa fa-bell"></i>
+</div>*@
+
+@*<div class="sp-im-body">
+    <div class="sp-im-title">
+        <div class="title-item active" data-value="sp_im_msglist">
+            <i class="fa fa-commenting"></i>
+        </div>
+        <div class="title-item title-item-two" data-value="sp_im_userlist">
+            <i class="fa fa-user"></i>
+        </div>
+    </div>
+    <div id="sp_im_msglist" class="sp-im-content sp-im-msglist active">
+        <div class="sp-im-left">
+            <div class="sp-msg-userlist" id="sp_immsg_userlist">
+            </div>
+        </div>
+        <div class="sp-im-right sp-im-nouser">
+            <div class="sp-im-touser"></div>
+            <div class="sp-im-msgcontent">
+            </div>
+            <div class="sp-im-msgcontent-tool"><span id="sp_im_look_msg_btn">查看消息记录</span></div>
+            <div class="sp-im-input">
+                <textarea id="sp_im_input" type="text" class="inp"></textarea>
+            </div>
+        </div>
+    </div>
+    <div id="sp_im_userlist" class="sp-im-content sp-im-userlist">
+        <div class="sp-im-search">
+            <i class="fa fa-search"></i>
+            <input type="text" placeholder="搜索（Enter回车）">
+        </div>
+        <div class="sp-im-content-userlist" id="sp_im_content_userlist">
+
+        </div>
+    </div>
+</div>*@
+@Html.AppendJsFile("/Views/Home/AdminDefault/index.js")

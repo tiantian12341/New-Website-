@@ -1,0 +1,16 @@
+﻿.sp-form-wrap {
+    padding: 0;
+}
+.sp-form-item {
+    width:500px;
+    padding: 5px 0 5px 80px;
+    float:initial;
+}
+.sp-form-item-title {
+    width: 80px;
+    text-align: left;
+    padding-right: 10px;
+}
+.form-control {
+    border-radius:4px;
+}

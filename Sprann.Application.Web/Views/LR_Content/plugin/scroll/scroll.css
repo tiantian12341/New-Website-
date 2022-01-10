@@ -1,0 +1,88 @@
+﻿.sp-scroll-wrap {
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+    width:100%;
+}
+
+.sp-scroll-box {
+    position: relative;
+    top: 0;
+    left: 0;
+    min-height: 100%;
+    min-width: 100%;
+    overflow:hidden;
+    zoom:1;
+}
+
+.sp-scroll-vertical {
+    position: absolute;
+    width: 6px;
+    height: 100%;
+    top: 0;
+    right: 0;
+    z-index: 2;
+    opacity: 0;
+    transition: background-color .2s linear, opacity .2s linear;
+    -webkit-transition: background-color .2s linear, opacity .2s linear;
+}
+
+.sp-scroll-wrap:hover > .sp-scroll-vertical,
+.sp-scroll-active > .sp-scroll-vertical {
+    opacity: 0.6;
+}
+
+.sp-scroll-vertical:hover, .sp-scroll-active > .sp-scroll-vertical {
+    width: 12px !important;
+    opacity: 1 !important;
+}
+
+.sp-scroll-vertical-block {
+    position: absolute;
+    width: 100%;
+    height: 0px;
+    top: 0;
+    left: 0;
+    /*background-color: rgba(0,0,0,.25);*/
+    background-color: #3699ff;
+    cursor: pointer;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    border-radius: 16px;
+}
+
+.sp-scroll-horizontal {
+    position: absolute;
+    width: 100%;
+    height: 6px;
+    bottom: 0;
+    right: 0;
+    z-index: 2;
+    opacity: 0;
+    transition: background-color .2s linear, opacity .2s linear;
+    -webkit-transition: background-color .2s linear, opacity .2s linear;
+}
+
+.sp-scroll-wrap:hover > .sp-scroll-horizontal,
+.sp-scroll-active > .sp-scroll-horizontal {
+    opacity: 0.6;
+}
+
+.sp-scroll-horizontal:hover, .sp-scroll-active > .sp-scroll-horizontal {
+    height: 12px !important;
+    opacity: 1 !important;
+}
+
+.sp-scroll-horizontal-block {
+    position: absolute;
+    height: 100%;
+    width: 0px;
+    top: 0;
+    left: 0;
+    /*background-color: rgba(0,0,0,.25);*/
+    background-color: #3699ff;
+    cursor: pointer;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    border-radius: 16px;
+}

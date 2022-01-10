@@ -1,0 +1,363 @@
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+D:\Project\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.AssemblyReference.cache
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Sprann.Ioc.pdb
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csproj.CopyComplete
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.pdb
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Ioc\obj\Debug\Sprann.Ioc.csprojAssemblyReference.cache

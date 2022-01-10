@@ -1,0 +1,33 @@
+﻿body {
+    padding:5px;
+}
+.sp-form-layout {
+    padding-top:210px;
+}
+.sp-form-layout-header {
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 210px;
+    padding: 10px;
+    border:1px solid #ccc;
+    z-index:2;
+}
+.sp-form-item-title {
+    width:58px;
+    padding-right:0px;
+    text-align:left;
+}
+.sp-form-item {
+    padding-left:58px;
+}
+.sp-form-layout-body
+{
+    padding-top:30px;
+    border:1px solid #ccc;
+    border-top:0px;
+}
+.data-edit-select,data-edit-fixedInfo {
+    display:none;
+}

@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title = "PC端代码生成器";
+    Layout = "~/Views/Shared/_Index.cshtml";
+}
+@Html.AppendCssFile("/Areas/LR_CodeGeneratorModule/Views/TemplatePC/Index.css")
+<div class="sp-layout">
+    <div class="sp-layout-center">
+        <div class="sp-layout-wrap">
+            <div class="sp-cover-box">
+                <div class="sp-cover-img">
+                    <img class="sp-cover-img1" src="~/Content/images/codeGenerator/singletable0.png" />
+                    <img class="sp-cover-img2" src="~/Content/images/codeGenerator/singletable1.png" />
+
+                    <h4>快速开发模板</h4>
+                </div>
+                <div class="sp-cover-info">
+                    <small>快速生成必要的类和页面。</small>
+                </div>
+                <div class="sp-cover-button">
+                    <a class="btn btn-default" id="sp_fastCode">配置</a>
+                </div>
+            </div>
+            <div class="sp-cover-box">
+                <div class="sp-cover-img">
+                    <img class="sp-cover-img1" src="~/Content/images/codeGenerator/multitable0.png" />
+                    <img class="sp-cover-img2" src="~/Content/images/codeGenerator/multitable1.png" />
+
+                    <h4>自定义开发模板</h4>
+                </div>
+                <div class="sp-cover-info">
+                    <small>通过设置生成单表或多表的增删改查功能。</small>
+                </div>
+                <div class="sp-cover-button">
+                    <a class="btn btn-default" id="sp_custmerCode">配置</a>
+                </div>
+            </div>
+
+            <div class="sp-cover-box">
+                <div class="sp-cover-img">
+                    <img class="sp-cover-img1" src="~/Content/images/codeGenerator/serviceCode0.png" />
+                    <img class="sp-cover-img2" src="~/Content/images/codeGenerator/serviceCode1.png" />
+
+                    <h4>实体生成模板</h4>
+                </div>
+                <div class="sp-cover-info">
+                    <small>根据数据库快速生成实体类和映射类。</small>
+                </div>
+                <div class="sp-cover-button">
+                    <a class="btn btn-default" id="sp_entityCode">配置</a>
+                </div>
+            </div>
+
+            <div class="sp-cover-box">
+                <div class="sp-cover-img">
+                    <img class="sp-cover-img1" src="~/Content/images/codeGenerator/workflow0.png" />
+                    <img class="sp-cover-img2" src="~/Content/images/codeGenerator/workflow1.png" />
+
+                    <h4>流程系统表单模板</h4>
+                </div>
+                <div class="sp-cover-info">
+                    <small>通过设置生成流程的系统表单。</small>
+                </div>
+                <div class="sp-cover-button">
+                    <a class="btn btn-default" id="sp_workflowCode">配置</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+@Html.AppendJsFile("/Areas/LR_CodeGeneratorModule/Views/TemplatePC/Index.js")

@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta name=”renderer” content=”webkit|ie-comp|ie-stand” />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge">
+    <meta name="keywords" content="注塑mes, 注塑行业mes, MES, 制造执行系统, 自动排程, APS" />
+    <meta name="description" content="思普瑞云MES制造执行系统是国内首选的注塑行业MES，与自动排程APS工具配合使用，可提高注塑工厂车间管理效率30%，降低注塑机器人工操作和生产成本高达50%。" />
+    <link rel="icon" href="~/logo32w.ico">
+    <title>思普瑞云：MES制造执行系统 - 登录页面</title>
+</head>
+
+<body>
+    @Html.AppendCssFile("/Views/Login/Window/Index.css")
+    <input id="errornum" type="hidden" value="@ViewBag.errornum" />
+    <div class="sp-login-body">
+        <div class="sp-login-logo">
+            @*<img src="~/Content/images/Login/blue_logo.png" alt="">*@
+            <div class="sp-login-title">
+                思普瑞云
+            </div>
+        </div>
+        <div class="sp-login-middle">
+            <!--密码登录-->
+            <div class="sp-login-bypsw noreg">
+                <div class="sp-login-middle-title">
+                    <img src="~/Content/images/Login/windos_arrow.png">
+                    <span>登录 / Sign In</span>
+                </div>
+                <div class="sp-login-warning"><img src="~/Content/images/Login/error.png" alt=""><span>登录帐号或登录密码不正确</span></div>
+
+                <div class="error_info">*&nbsp;<span>密码不正确</span></div>
+                @*<img class="sp-login-toCode" login-access="psw" src="~/Content/images/Login/blue_code.png" alt="">*@
+                <div class="sp-login-input">
+                    <div class="input-title">
+                        <img src="~/Content/images/Login/default_account0.png" alt="">
+                        <span>手机号/帐号</span>
+                    </div>
+                    <input id="sp_username" type="text">
+                </div>
+                <div class="sp-login-input">
+                    <div class="input-title">
+                        <img src="~/Content/images/Login/default_psw0.png" alt="">
+                        <span>密码</span>
+                    </div>
+                    <input id="sp_password" type="password">
+                    <span id="psw_change"></span>
+                </div>
+                <div class="sp-login-input sp-login-reg">
+                    <div class="input-title">
+                        <img class="inp_icon" src="~/Content/images/Login/default_reg0.png" alt="">
+                        <span>验证码</span>
+                    </div>
+                    <input id="sp_verifycode_input" type="text">
+                    <img class="code" id="sp_verifycode_img" src="~/Login/VerifyCode" alt="点击切换验证码" title="点击切换验证码" />
+                </div>
+                <div class="sp-login-btn" id="sp_login_btn"><span>登录</span></div>
+                @*<div class="sp-login-version">版本号：v7.0.0</div>*@
+            </div>
+
+            <!--二维码登录-->
+            <div class="sp-login-bycode">
+                <img class="sp-login-toCode" src="~/Content/images/Login/blue_pc.png" alt="">
+                <div class="sp-login-info">
+                    <img src="~/Content/images/Login/qrcode.png" alt="">
+                    <p>微信扫一扫 获体验资格</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="sp-login-footer"> <p>Copyright © 2018 思普瑞云(深圳)科技有限公司 版权所有</p><p>官方网站：<a href="http://www.sprann.com" target="_blank">http://www.sprann.com</a></p></div>
+
+    <script src="~/Content/jquery/jquery-1.10.2.min.js"></script>
+    <script src="~/Content/jquery/jquery.md5.min.js"></script>
+    <script>
+        function request(d) { for (var c = location.search.slice(1).split("&"), a = 0; a < c.length; a++) { var b = c[a].split("="); if (b[0] == d) if ("undefined" == unescape(b[1])) break; else return unescape(b[1]) } return "" };
+        $.rootUrl = '@Url.Content("~")'.substr(0, '@Url.Content("~")'.length - 1);
+        $.spToken = $('@Html.AntiForgeryToken()').val();
+    </script>
+    @Html.AppendJsFile("/Views/Login/Window/Index.js")
+</body>
+</html>

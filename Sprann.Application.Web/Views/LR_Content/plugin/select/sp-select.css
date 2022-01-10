@@ -1,0 +1,140 @@
+﻿/*
+ * 版 本 Sprann ADMS V1.0.0 敏捷开发框架(http://www.sp.cn)
+ * Copyright (c) 2017-2018 思普瑞云(深圳)科技有限公司
+ * 创建人：力软-前端开发组
+ * 日 期：2017.03.16
+ * 描 述：选择框组件样式
+ */
+.sp-select {
+    position: relative;
+    cursor: pointer;
+    width: 100%;
+    height: 28px;
+    line-height: 26px;
+    background:#fff url(/Content/images/spselect/icon.png) no-repeat right center;
+    padding-left:4px;
+
+    color: #3F4254;
+    background-color: #ffffff;
+    background-clip: padding-box;
+    border: 1px solid #E4E6EF;
+    border-radius: 0.55rem;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+}
+    .sp-select.sp-select-focus {
+        background-color: #EBEDF3;
+        border-color: #EBEDF3;
+        color: #3F4254;
+        -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+        transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+        transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+        transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    }
+.sp-select-placeholder {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+    color:#999;
+    overflow:hidden;
+    white-space: nowrap; 
+    text-overflow: ellipsis;
+}
+.sp-select-option {
+    position: absolute;
+    width: 100%;
+    background: #fff;
+    z-index: 1000;
+    top: 28px;
+    border-radius: 2px;
+    border: 0;
+    border-radius: 0.55rem;
+    box-shadow: 0px 0px 50px 0px rgba(82, 63, 105, 0.15);
+    user-select:none;
+}
+.sp-select-option-content {
+    position:relative;
+    width:100%;
+}
+
+.sp-select-option .sp-selectitem-li {
+    min-height: 26px;
+    line-height: 26px;
+    overflow: hidden;
+    cursor: pointer;
+    padding:0px 5px;
+    overflow:hidden;
+    white-space: nowrap; 
+    text-overflow: ellipsis;
+}
+    .sp-select-option .sp-selectitem-li:hover {
+        background-color: #F3F6F9;
+    }
+.sp-selectitem-li.selected {
+    background-color: #1BC5BD !important;
+    color: #fff;
+}
+.sp-select-option-search {
+    border-top: 1px solid #ccc;
+    position:absolute;
+    border-bottom:0px;
+    left:0px;
+    height:25px;
+    width:100%;
+    line-height:24px;
+}
+.sp-select-option-search >input{
+    color: #000;
+    border-radius: 0;
+    border: none;
+    box-shadow: none;
+    font-size: 9pt;
+    height: 28px;
+    padding-top: 0;
+    padding-bottom: 1px;
+    padding-right: 0;
+    padding-left: 5px;
+    resize: none;
+    background-color: #fff;
+    background-image: none;
+    height: 24px;
+    line-height: 1.42857143;
+    margin: 0px;
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+
+    width: 100%;
+    outline: none;
+    padding: 0;
+    padding-left: 10px;
+}
+.sp-select-option-search .input-query {
+    position:absolute;
+    right: 4px;
+    top: 0px;
+    color: #ccc;
+    font-size: 16px;
+    cursor:default;
+}
+.sp-select-node-cb {
+    border: 0 none;
+    margin: 0;
+    vertical-align: top;
+    width: 16px;
+    height: 16px;
+    background-repeat: no-repeat;
+    padding: 2px;
+    margin-top: 4.5px;
+    margin-right: 5px;
+}
+
+.sp-select-option .sp-selectitem-li[data-value="-2"] {
+    background-color:#eee;
+}

@@ -1,0 +1,125 @@
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.pdb
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.xml
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csprojAssemblyReference.cache
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CoreCompileInputs.cache
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CopyComplete
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.pdb
+D:\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.pdb
+D:\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.xml
+D:\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csprojAssemblyReference.cache
+D:\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CoreCompileInputs.cache
+D:\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CopyComplete
+D:\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.pdb
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.pdb
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.xml
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CoreCompileInputs.cache
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CopyComplete
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.pdb
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csprojAssemblyReference.cache
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.pdb
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.xml
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csprojAssemblyReference.cache
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CopyComplete
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.pdb
+D:\Project\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.pdb
+D:\Project\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.xml
+D:\Project\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csprojAssemblyReference.cache
+D:\Project\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CoreCompileInputs.cache
+D:\Project\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CopyComplete
+D:\Project\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.pdb
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.pdb
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.xml
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csprojAssemblyReference.cache
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CoreCompileInputs.cache
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CopyComplete
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.pdb
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.pdb
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.xml
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csprojAssemblyReference.cache
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CoreCompileInputs.cache
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CopyComplete
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.pdb
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.pdb
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.xml
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csprojAssemblyReference.cache
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CoreCompileInputs.cache
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CopyComplete
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.pdb
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.dll
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.pdb
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.dll
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.xml
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csprojAssemblyReference.cache
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CoreCompileInputs.cache
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CopyComplete
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.dll
+F:\ZHENG\MES\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.pdb
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.pdb
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.xml
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csprojAssemblyReference.cache
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CoreCompileInputs.cache
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CopyComplete
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.pdb
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.pdb
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.xml
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csprojAssemblyReference.cache
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CoreCompileInputs.cache
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CopyComplete
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.xml
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csprojAssemblyReference.cache
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CoreCompileInputs.cache
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CopyComplete
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.pdb
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.pdb
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.xml
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csprojAssemblyReference.cache
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CoreCompileInputs.cache
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CopyComplete
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.pdb
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.dll
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Log\bin\Release\Sprann.Loger.pdb
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.dll
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Log\bin\Release\log4net.xml
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.AssemblyReference.cache
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CoreCompileInputs.cache
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.csproj.CopyComplete
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.dll
+C:\Users\Sweet\Desktop\PMS\Sprann.Framework.Module\Sprann.Log\obj\Release\Sprann.Loger.pdb

@@ -1,0 +1,130 @@
+﻿@{
+    ViewBag.Title = "我的桌面";
+    Layout = "~/Views/Shared/_Index.cshtml";
+}
+@Html.AppendCssFile(
+                    "/Views/LR_Content/style/sp-common.min.css",
+                    "/Views/Home/AdminDesktop/index.css")
+
+<style>
+    .sw-card {
+        width:100%;
+        height:150px;
+        display:flex;
+        justify-content:center;
+        flex-direction:row;
+        align-items:center;
+    }
+
+    .sw-card-item {
+        position:relative;
+        width:25%;
+        height:108px;
+        margin:0 .75rem;
+        color: #666;
+        background: #fff;
+        -webkit-box-shadow: 4px 4px 40px rgb(0 0 0 / 5%);
+        box-shadow: 4px 4px 40px rgb(0 0 0 / 5%);
+        border-color: rgba(0,0,0,.05);
+    }
+
+    .sw-card-item .sw-card-icon {
+        position:absolute;
+        width:50%;
+        font-size:48px;
+        text-align:center;
+        line-height:108px;
+    }
+
+    .sw-card-item .sw-card-info {
+        position: absolute;
+        width: 50%;
+        height: 108px;
+        left: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .sw-card-item .sw-card-info .sw-card-title {
+        color: rgba(0,0,0,.45);
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .sw-card-item .sw-card-info .sw-card-description {
+        font-size: 20px;
+        font-weight:700;
+    }
+
+    .sw-project-icon img {
+        margin-left:.75rem;
+    }
+
+    .sw-project-description {
+        margin-top:.75rem;
+        padding-left:.75rem;
+        font-size: 20px;
+        font-weight: 700;
+    }
+</style>
+
+
+<div class="sp-desktop-panel">
+    <div class="col-xs-12">
+        <div class="portal-panel-title">
+            <i class="fa fa-balance-scale"></i>&nbsp;&nbsp;我的桌面
+        </div>
+        <div id="sp_target" class="portal-panel-content">
+        </div>
+    </div>
+
+    <div id="MList" class="col-xs-12">
+        <div id="news-hot">
+            <div class="sw-project-icon"><img src="~/Content/images/f778738c-e4f8-4870-b634-56703b4acafe.gif"/></div>
+            <div class="sw-project-description">鸿利达 项目管理</div>
+            <div class="sw-card">
+                <div class="sw-card-item">
+                    <span class="sw-card-icon fa fa-user" style="color: #40c9c6;"></span>
+                    <div class="sw-card-info">
+                        <span class="sw-card-title">新客户</span>
+                        <span class="sw-card-description">1</span>
+                    </div>
+                </div>
+                <div class="sw-card-item">
+                    <span class="sw-card-icon fa fa-commenting-o" style="color: #36a3f7;"></span>
+                    <div class="sw-card-info">
+                        <span class="sw-card-title">消息</span>
+                        <span class="sw-card-description">1</span>
+                    </div>
+                </div>
+                <div class="sw-card-item">
+                    <span class="sw-card-icon fa fa-area-chart" style="color: #f4516c;"></span>
+                    <div class="sw-card-info">
+                        <span class="sw-card-title">图表</span>
+                        <span class="sw-card-description">1</span>
+                    </div>
+                </div>
+                <div class="sw-card-item">
+                    <span class="sw-card-icon fa fa-internet-explorer" style="color: #34bfa3;"></span>
+                    <div class="sw-card-info">
+                        <span class="sw-card-title">谷歌浏览器</span>
+                        <span class="sw-card-description">1</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="Charts" class="col-xs-12">
+    </div>
+</div>
+<script src="~/Content/pace/pace.min.js"></script>
+<script src="~/Content/jquery/jquery-1.10.2.min.js"></script>
+<script src="~/Content/jquery/plugin/scrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="~/Content/echarts/echarts.min.js"></script>
+@Html.AppendJsFile("/Views/Home/AdminDesktop/index.js")
+<script>
+    (function ($, sp) {
+        'use strict';
+    })(jQuery, top.sp);
+</script>

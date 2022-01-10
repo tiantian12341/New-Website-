@@ -1,0 +1,1196 @@
+﻿@{
+    ViewBag.Title = "看板";
+}
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="~/hongrita.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="~/hongrita.ico" type="image/x-icon">
+    <link href="~/Content/sweet/sweet.min.css" rel="stylesheet" />
+</head>
+
+<style>
+    .app {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        /*background-color: #f3f4fa;*/
+        overflow: hidden;
+        user-select: none;
+        background: url(../../../../Content/sweet/images/live/bg_live_13.svg) center center / cover;
+    }
+
+    .el-content {
+        opacity: 0;
+        -webkit-transition: all .3s;
+        transition: all .3s;
+    }
+
+    .el-content.active {
+        opacity: 1;
+    }
+
+    .el-top {
+        position: relative;
+        width: 100%;
+        height: 33.33%;
+        cursor: pointer;
+    }
+
+    .el-top .el-title {
+        position: relative;
+        /*width:300px;*/
+        width: 100%;
+        height: 50PX;
+        margin: 0 auto;
+        overflow: hidden;
+        background: linear-gradient( 150deg,#281483 15%,#8f6ed5 70%,#d782d9 94%);
+    }
+
+    .el-top .el-title > span:nth-of-type(1) {
+        position: absolute;
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        bottom: auto;
+        left: -4%;
+        background:hsla(0,0%,100%,.1);
+    }
+
+    .el-top .el-title > span:nth-of-type(2) {
+        position: absolute;
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        top: 10%;
+        right: 4%;
+        background: hsla(0,0%,100%,.1);
+    }
+
+    .el-top .el-title > span:nth-of-type(3) {
+        position: absolute;
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        top: 280px;
+        right: 5.66666%;
+        background: hsla(0,0%,100%,.3);
+    }
+
+    .el-top .el-title > span:nth-of-type(4) {
+        position: absolute;
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        top: 320px;
+        right: 7%;
+        background: hsla(0,0%,100%,.15);
+    }
+
+    .el-top .el-title > span:nth-of-type(5) {
+        position: absolute;
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        top: 38%;
+        right: auto;
+        left: 1%;
+        background: hsla(0,0%,100%,.05);
+    }
+
+    .el-top .el-title > span:nth-of-type(6) {
+        position: absolute;
+        border-radius: 50%;
+        top: 44%;
+        right: auto;
+        left: 10%;
+        width: 200px;
+        height: 200px;
+        background: hsla(0,0%,100%,.15);
+    }
+
+    .el-top .el-title > span:nth-of-type(7) {
+        position: absolute;
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        right: 36%;
+        bottom: 50%;
+        background: hsla(0,0%,100%,.04);
+    }
+
+    .el-top .el-title .el-title-bg img {
+        width: 100%;
+        height: 100%;
+        display: none;
+    }
+
+    .el-top .el-title .el-title-text {
+        position: absolute;
+        width: 100%;
+        line-height: 50px;
+        color: #ffffff;
+        font-size: 1.75rem;
+        font-weight: 500;
+        top: 0;
+        left: 0;
+        text-align: center;
+    }
+
+    .el-top .el-title .el-btn-list {
+        position: absolute;
+        left: 10px;
+        top: 0;
+        height: 50px;
+    }
+
+    .el-top .el-current-time {
+        position: fixed;
+        right: 1.55rem;
+        top: 0;
+        font-size: 1.55rem;
+        color: #ffffff;
+        line-height: 50px;
+    }
+
+    .el-top .el-pie-chart {
+        position: absolute;
+        width: 100%;
+        top: 50px;
+        bottom: 0;
+        padding-top: 10px;
+    }
+
+    .el-top .el-pie-chart .el-pie-chart-item {
+        position: relative;
+        width: 23.5%;
+        height: 100%;
+        box-shadow: rgb(0 0 0 / 10%) 0px 0px 20px;
+        /*border-radius: 5px;*/
+        background: rgb(255, 255, 255,.8);
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+    }
+
+    @@keyframes animation-down {
+        0% {
+            -webkit-transform: translateY(-50px);
+            transform: translateY(-50px);
+        }
+
+        100% {
+            -webkit-transform: translateY(0);
+            transform: translateY(0);
+        }
+    }
+
+    @@keyframes animation-up {
+        0% {
+            -webkit-transform: translateY(50px);
+            transform: translateY(50px);
+        }
+
+        100% {
+            -webkit-transform: translateY(0);
+            transform: translateY(0);
+        }
+    }
+
+    .el-top .el-pie-chart .el-pie-chart-item:nth-of-type(1) {
+        -webkit-animation: animation-down 1s ease;
+        animation: animation-down .3s ease;
+    }
+
+    .el-top .el-pie-chart .el-pie-chart-item:nth-of-type(2) {
+        -webkit-animation: animation-up 1s ease;
+        animation: animation-up 1s ease;
+    }
+
+    .el-top .el-pie-chart .el-pie-chart-item:nth-of-type(3) {
+        -webkit-animation: animation-down 1s ease;
+        animation: animation-down 1s ease;
+    }
+
+    .el-top .el-pie-chart .el-pie-chart-item:nth-of-type(4) {
+        -webkit-animation: animation-up 1s ease;
+        animation: animation-up 1s ease;
+    }
+
+    .el-top .el-pie-chart .el-pie-chart-item .el-pie-chart-title {
+        position: relative;
+        height: 30px;
+        line-height: 30px;
+        color: #909399;
+        font-size: 1.25rem;
+        font-weight: 500;
+        text-align: center;
+    }
+
+    .el-top .el-pie-chart .el-pie-chart-item .el-pie-chart-content {
+        position: absolute;
+        width: 100%;
+        top: 30px;
+        bottom: 0;
+    }
+
+    @@media(min-width:1281px) {
+        .el-top .el-pie-chart .el-pie-chart-item .el-pie-chart-content .el-pie-one {
+            width: 100px !important;
+            height: 100px !important;
+        }
+
+            .el-top .el-pie-chart .el-pie-chart-item .el-pie-chart-content .el-pie-one:before {
+                width: 90px !important;
+                height: 90px !important;
+            }
+
+            .el-top .el-pie-chart .el-pie-chart-item .el-pie-chart-content .el-pie-one .per {
+                width: 100px !important;
+                height: 100px !important;
+                line-height: 100px !important;
+            }
+    }
+
+    @@keyframes animation-jump {
+        0% {
+            -webkit-transform: translate(-100px,-100px) scale(0.1);
+            transform: translate(-100px,-100px) scale(0.1);
+        }
+
+        20% {
+        }
+
+        40% {
+        }
+
+        60% {
+        }
+
+        80% {
+        }
+
+        100% {
+            -webkit-transform: translate(0,0);
+            transform: translate(0,0);
+        }
+    }
+
+    .el-top .el-pie-chart .el-pie-chart-item .el-pie-chart-content .el-pie-one {
+        position: relative;
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        background-color: #ff6a00;
+        -webkit-transition: .3s all;
+        transition: .3s all;
+        -webkit-transform: translate(0,0);
+        transform: translate(0,0);
+        -webkit-animation: animation-jump 2s ease;
+        animation: animation-jump 2s ease;
+    }
+
+    @@keyframes animation-rotate {
+        0% {
+            -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+        }
+
+        100% {
+            -webkit-transform: rotate(359deg);
+            transform: rotate(359deg);
+        }
+    }
+
+    .animation-rotate {
+        -webkit-animation: animation-rotate 1.5s linear infinite;
+        animation: animation-rotate 1.5s linear infinite;
+    }
+
+    .el-top .el-pie-chart .el-pie-chart-item .el-pie-chart-content .el-pie-one::before {
+        content: ' ';
+        position: absolute;
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        border-color: transparent;
+        border-width: 3px;
+        border-style: solid;
+        border-bottom-color: #ffffff;
+        top: 5px;
+        left: 5px;
+        -webkit-animation: animation-rotate 1.5s linear infinite;
+        animation: animation-rotate 1.5s linear infinite;
+        -webkit-animation-delay: 2s;
+        animation-delay: 2s;
+    }
+
+    .el-top .el-pie-chart .el-pie-chart-item .el-pie-chart-content .el-pie-one .per {
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        top: 0;
+        left: 0;
+        text-align: center;
+        color: #ffffff;
+        font-size: 1.55rem;
+        font-weight: 500;
+    }
+
+    .el-bottom {
+        position: relative;
+        width: 100%;
+        height: 66.66%;
+    }
+
+    @@keyframes animation-float {
+        0% {
+            -webkit-transform: translate(-100px,-100px) scale(0.2);
+            transform: translate(-100px,-100px) scale(0.2);
+        }
+
+        100% {
+            -webkit-transform: translate(0,0) scale(1);
+            transform: translate(0,0) scale(1);
+        }
+    }
+
+    .el-bottom .el-bottom-left, .el-bottom .el-bottom-right {
+        position: relative;
+        width: 48%;
+        height: 95%;
+        padding-left: 10px;
+        padding-right: 10px;
+        box-shadow: rgb(0 0 0 / 10%) 0px 0px 20px;
+        /*border-radius: 5px;*/
+        background: rgb(255, 255, 255,.5);
+        -webkit-animation: animation-float 1s ease;
+        animation: animation-float 1s ease;
+    }
+
+    .el-bottom .el-bottom-right .el-bottom-right-top, .el-bottom .el-bottom-right .el-bottom-right-bottom {
+        position: relative;
+        width: 100%;
+        height: 50%;
+    }
+
+    .el-table {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        background: rgb(255, 255, 255,.8);
+        border: 1px solid #dfe6ec;
+    }
+
+    .el-table .el-table-header table, .el-table .el-table-body table {
+        table-layout: fixed;
+        border-collapse: separate;
+    }
+
+    .el-table .el-table-header table thead {
+        color: #909399;
+        font-weight: 500;
+    }
+
+    .el-table .el-table-header table thead th, .el-table .el-table-body table tbody td {
+        border-right: 1px solid #dfe6ec;
+        border-bottom: 1px solid #dfe6ec;
+    }
+
+    .el-table td, .el-table th {
+        padding: 12px 0;
+        min-width: 0;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        text-overflow: ellipsis;
+        vertical-align: middle;
+        position: relative;
+        text-align: left;
+    }
+
+    .el-table th > .el-table-cell {
+        display: inline-block;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        position: relative;
+        vertical-align: middle;
+        padding-left: 10px;
+        padding-right: 10px;
+        width: 100%;
+    }
+
+    .el-table .el-table-cell {
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: normal;
+        word-break: break-all;
+        line-height: 23px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .el-table .el-table-body tr:hover > td {
+        background-color: #f5f7fa;
+    }
+
+    .el-table .el-table-body td {
+        -webkit-transition: background-color .25s ease;
+        transition: background-color .25s ease;
+    }
+</style>
+
+<style>
+    .el-jingle {
+        -webkit-animation: animation-jingle 1s linear infinite;
+        animation: animation-jingle 1s linear infinite;
+    }
+
+    @@keyframes animation-jingle {
+        0% {
+            animation-timing-function: cubic-bezier(0.146,0.2111,0.5902,1.3204);
+            transform: rotate(0);
+        }
+
+        11% {
+            animation-timing-function: cubic-bezier(0.1079,0.1992,-0.6462,0.828);
+            transform: rotate( 7.61deg);
+        }
+
+        23% {
+            animation-timing-function: cubic-bezier(0.0504,0.0951,0.0163,0.9677);
+            transform: rotate( -5.789999999999999deg);
+        }
+
+        36% {
+            animation-timing-function: cubic-bezier(0.0475,0.0921,0.3134,1.0455);
+            transform: rotate( 3.35deg);
+        }
+
+        49% {
+            animation-timing-function: cubic-bezier(0.0789,0.1565,0.3413,1.0972);
+            transform: rotate( -1.9300000000000002deg);
+        }
+
+        62% {
+            animation-timing-function: cubic-bezier(0.141,0.2885,0.406,1.1519);
+            transform: rotate( 1.12deg);
+        }
+
+        75% {
+            animation-timing-function: cubic-bezier(0.226,0.4698,0.5031,1.1722);
+            transform: rotate( -0.64deg);
+        }
+
+        88% {
+            animation-timing-function: cubic-bezier(0.3121,0.5521,0.5655,0.8997);
+            transform: rotate( 0.37deg);
+        }
+
+        100% {
+            transform: rotate( -0.28deg);
+        }
+    }
+</style>
+
+<style>
+    @@keyframes animation-offcanvas-fade-in {
+        0% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    .el-offcanvas-overlay.active {
+        display:block;
+    }
+
+    .el-offcanvas-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        overflow: hidden;
+        z-index: 1000;
+        -webkit-animation: animation-offcanvas-fade-in 0.6s ease 1;
+        animation: animation-offcanvas-fade-in 0.6s ease 1;
+        background: rgba(0, 0, 0, 0.1);
+        display:none;
+    }
+
+    .el-side {
+        z-index: 1001;
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        width: 375px;
+        background: #ffffff;
+        -webkit-box-shadow: 0px 1px 9px -3px rgb(0 0 0 / 25%);
+        box-shadow: 0px 1px 9px -3px rgb(0 0 0 / 25%);
+        transform: translate(-395px,0);
+        -webkit-transition: transform .3s ease;
+        transition: transform .3s ease;
+    }
+
+    .el-side.active {
+        transform: translate(0,0);
+    }
+
+    .el-side .offcanvas-demo-active {
+        border: 5px solid #3699FF;
+    }
+</style>
+<!--background-->
+<!--<canvas id="canvas" style="position:absolute;width:100%;height:100%;"></canvas>-->
+
+<div class="app " id="vueApp">
+    <!--content-->
+    <div class="el-content" ref="content">
+        <!--top-->
+        <div class="el-top">
+            <!--title-->
+            <div class="el-title">
+                <div class="el-title-bg"><img src="~/Content/sweet/images/logo/logo.png" /></div>
+                <div class="el-title-text">{{title}}</div>
+
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+
+                <div class="el-btn-list d-flex flex-center">
+                    <span class="svg-icon svg-icon-white svg-icon-2x el-jingle" v-if="!fullScreen" @@click="requestFullScreen" data-toggle="tooltip" data-placement="bottom" data-original-title="全屏">
+                        <!--begin::Svg Icon | path:/var/www/preview.keenthemes.com/keen/releases/2021-04-21-040700/theme/demo1/dist/../src/media/svg/icons/General/Size.svg--><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+                            <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <polygon points="0 0 24 0 24 24 0 24" />
+                                <path d="M18,6 L11,6 C10.3333333,5.88561808 10,5.55228475 10,5 C10,4.44771525 10.3333333,4.11438192 11,4 L20,4 L20,13 C20,13.6666667 19.6666667,14 19,14 C18.3333333,14 18,13.6666667 18,13 L18,6 Z M6,18 L13,18 C13.6666667,18.1143819 14,18.4477153 14,19 C14,19.5522847 13.6666667,19.8856181 13,20 L4,20 L4,11 C4,10.3333333 4.33333333,10 5,10 C5.66666667,10 6,10.3333333 6,11 L6,18 Z" fill="#ffffff" fill-rule="nonzero" />
+                                <rect fill="#ffffff" opacity="0.3" transform="translate(12.000000, 12.000000) rotate(-45.000000) translate(-12.000000, -12.000000) " x="7" y="11" width="10" height="2" rx="1" />
+                            </g>
+                        </svg><!--end::Svg Icon-->
+                    </span>
+                    <span class="svg-icon svg-icon-white svg-icon-2x el-jingle" v-else @@click="exitFullscreen" data-toggle="tooltip" data-placement="bottom" data-original-title="退出全屏">
+                        <!--begin::Svg Icon | path:/var/www/preview.keenthemes.com/keen/releases/2021-04-21-040700/theme/demo1/dist/../src/media/svg/icons/General/Scale.svg--><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+                            <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <polygon points="0 0 24 0 24 24 0 24" />
+                                <path d="M10,14 L5,14 C4.33333333,13.8856181 4,13.5522847 4,13 C4,12.4477153 4.33333333,12.1143819 5,12 L12,12 L12,19 C12,19.6666667 11.6666667,20 11,20 C10.3333333,20 10,19.6666667 10,19 L10,14 Z M15,9 L20,9 C20.6666667,9.11438192 21,9.44771525 21,10 C21,10.5522847 20.6666667,10.8856181 20,11 L13,11 L13,4 C13,3.33333333 13.3333333,3 14,3 C14.6666667,3 15,3.33333333 15,4 L15,9 Z" fill="#000000" fill-rule="nonzero" />
+                                <path d="M3.87867966,18.7071068 L6.70710678,15.8786797 C7.09763107,15.4881554 7.73079605,15.4881554 8.12132034,15.8786797 C8.51184464,16.2692039 8.51184464,16.9023689 8.12132034,17.2928932 L5.29289322,20.1213203 C4.90236893,20.5118446 4.26920395,20.5118446 3.87867966,20.1213203 C3.48815536,19.7307961 3.48815536,19.0976311 3.87867966,18.7071068 Z M16.8786797,5.70710678 L19.7071068,2.87867966 C20.0976311,2.48815536 20.7307961,2.48815536 21.1213203,2.87867966 C21.5118446,3.26920395 21.5118446,3.90236893 21.1213203,4.29289322 L18.2928932,7.12132034 C17.9023689,7.51184464 17.2692039,7.51184464 16.8786797,7.12132034 C16.4881554,6.73079605 16.4881554,6.09763107 16.8786797,5.70710678 Z" fill="#000000" opacity="0.3" />
+                            </g>
+                        </svg><!--end::Svg Icon-->
+                    </span>
+                    <span class="svg-icon svg-icon-white svg-icon-2x ml-5 animation-rotate" @@click="showSide">
+                        <!--begin::Svg Icon | path:/var/www/preview.keenthemes.com/keen/releases/2021-04-21-040700/theme/demo1/dist/../src/media/svg/icons/General/Settings-2.svg--><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+                            <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <rect x="0" y="0" width="24" height="24" />
+                                <path d="M5,8.6862915 L5,5 L8.6862915,5 L11.5857864,2.10050506 L14.4852814,5 L19,5 L19,9.51471863 L21.4852814,12 L19,14.4852814 L19,19 L14.4852814,19 L11.5857864,21.8994949 L8.6862915,19 L5,19 L5,15.3137085 L1.6862915,12 L5,8.6862915 Z M12,15 C13.6568542,15 15,13.6568542 15,12 C15,10.3431458 13.6568542,9 12,9 C10.3431458,9 9,10.3431458 9,12 C9,13.6568542 10.3431458,15 12,15 Z" fill="#000000" />
+                            </g>
+                        </svg><!--end::Svg Icon-->
+                    </span>
+                </div>
+            </div>
+
+            <!--time-->
+            <div class="el-current-time">{{time}}</div>
+
+            <!--chart-->
+            <div class="el-pie-chart d-flex flex-center">
+                <div class="el-pie-chart-item mx-2">
+                    <div class="el-pie-chart-title">投入位</div>
+                    <div class="el-pie-chart-content d-flex flex-center">
+                        <div class="el-pie-one"><div class="per">{{per}}</div></div>
+                    </div>
+                </div>
+
+                <div class="el-pie-chart-item mx-2">
+                    <div class="el-pie-chart-title">投入位</div>
+                    <div class="el-pie-chart-content" id="el-pie-two"></div>
+                </div>
+
+                <div class="el-pie-chart-item mx-2">
+                    <div class="el-pie-chart-title">测试位</div>
+                    <div class="el-pie-chart-content" id="el-pie-three"></div>
+                </div>
+
+                <div class="el-pie-chart-item mx-2">
+                    <div class="el-pie-chart-title">外观位</div>
+                    <div class="el-pie-chart-content" id="el-pie-four"></div>
+                </div>
+            </div>
+        </div>
+
+        <!--bottom-->
+        <div class="el-bottom d-flex flex-center">
+            <!--bar chart-->
+            <!--left-->
+            <div class="el-bottom-left mx-2" id="el-bar-chart"></div>
+            <!--right-->
+            <div class="el-bottom-right mx-2 ">
+                <!--line chart-->
+                <div class="el-bottom-right-top" id="el-line-chart"></div>
+                <!--table-->
+                <div class="el-bottom-right-bottom bg-success-o-10">
+                    <div class="el-table">
+                        <div class="el-table-header">
+                            <table cellpadding="0" cellspacing="0" border="0">
+                                <colgroup>
+                                    <col name="el-table_1_column_1" width="80">
+                                    <col name="el-table_1_column_2" width="120">
+                                    <col name="el-table_1_column_3" width="120">
+                                    <col name="el-table_1_column_4" width="100">
+                                    <col name="el-table_1_column_5" width="100">
+                                </colgroup>
+                                <thead>
+                                    <tr>
+                                        <th v-for="(value,name) in tableData[0]"><div class="el-table-cell">{{name}}</div></th>
+                                    </tr>
+                                </thead>
+                            </table>
+                        </div>
+                        <div class="el-table-body">
+                            <table cellpadding="0" cellspacing="0" border="0">
+                                <colgroup>
+                                    <col name="el-table_1_column_1" width="80">
+                                    <col name="el-table_1_column_2" width="120">
+                                    <col name="el-table_1_column_3" width="120">
+                                    <col name="el-table_1_column_4" width="100">
+                                    <col name="el-table_1_column_5" width="100">
+                                </colgroup>
+                                <tbody>
+                                    <tr v-for="item in tableData">
+                                        <td v-for="value,name in item" rowspan="1" colspan="1">
+                                            <div class="el-table-cell">{{value}}</div>
+                                        </td>
+                                    </tr>
+                                    @*<tr>
+                                            <td rowspan="1" colspan="1" class="el-table_4_column_15"><div class="el-table-cell">Vue</div></td>
+                                            <td rowspan="1" colspan="1" class="el-table_4_column_20"><div class="el-table-cell">Javascript</div></td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="1" colspan="1" class="el-table_4_column_15"><div class="el-table-cell">React</div></td>
+                                            <td rowspan="1" colspan="1" class="el-table_4_column_20"><div class="el-table-cell">Javascript</div></td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="1" colspan="1" class="el-table_4_column_15"><div class="el-table-cell">Angular</div></td>
+                                            <td rowspan="1" colspan="1" class="el-table_4_column_20"><div class="el-table-cell">Javascript</div></td>
+                                        </tr>*@
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="el-offcanvas-overlay" ref="overlay"></div>
+    <div class="el-side p-10" ref="side">
+        <div class="el-side-header d-flex align-item-center justify-content-between pb-7">
+            <h4 class="font-weight-bold m-0">选择拉线</h4>
+            <a class="btn btn-xs btn-icon btn-light btn-hover-primary" @@click="hideSide">
+                <span class="svg-icon svg-icon-primary svg-icon-2x">
+                    <!--begin::Svg Icon | path:/var/www/preview.keenthemes.com/keen/releases/2021-04-21-040700/theme/demo1/dist/../src/media/svg/icons/Navigation/Close.svg--><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+                        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g transform="translate(12.000000, 12.000000) rotate(-45.000000) translate(-12.000000, -12.000000) translate(4.000000, 4.000000)" fill="#000000">
+                                <rect x="0" y="7" width="16" height="2" rx="1" />
+                                <rect opacity="0.3" transform="translate(8.000000, 8.000000) rotate(-270.000000) translate(-8.000000, -8.000000) " x="0" y="7" width="16" height="2" rx="1" />
+                            </g>
+                        </g>
+                    </svg><!--end::Svg Icon-->
+                </span>
+            </a>
+        </div>
+        <div class="el-side-content">
+            <div class="el-side-wrapper">
+                <h5 class="font-weight-bold mb-4 text-center">拉线1</h5>
+                <div class="overlay rounded-lg mb-8 offcanvas-demo offcanvas-demo-active">
+                    <div class="overlay-wrapper rounded-lg">
+                        @*<img src="https://preview.keenthemes.com/keen/theme/demo1/dist/assets/media/demos/demo1.png" alt="" class="w-100">*@
+                        <img src="~/Content/images/login.png" alt="" class="w-100">
+                    </div>
+                    <div class="overlay-layer">
+                        <a href="#" class="btn btn-white btn-text-primary btn-hover-primary font-weight-boldest text-center min-w-75px shadow" target="_blank">HTML</a>
+                        <a href="#" class="btn btn-white btn-text-primary btn-hover-primary font-weight-boldest text-center min-w-75px ml-3 shadow" target="_blank">RTL</a>
+                    </div>
+                </div>
+                <h5 class="font-weight-bold mb-4 text-center">拉线2</h5>
+                <div class="overlay rounded-lg mb-8 offcanvas-demo offcanvas-demo-active">
+                    <div class="overlay-wrapper rounded-lg">
+                        @*<img src="https://preview.keenthemes.com/keen/theme/demo1/dist/assets/media/demos/demo1.png" alt="" class="w-100">*@
+                        <img src="~/Content/images/login.png" alt="" class="w-100">
+                    </div>
+                    <div class="overlay-layer">
+                        <a href="#" class="btn btn-white btn-text-primary btn-hover-primary font-weight-boldest text-center min-w-75px shadow" target="_blank">HTML</a>
+                        <a href="#" class="btn btn-white btn-text-primary btn-hover-primary font-weight-boldest text-center min-w-75px ml-3 shadow" target="_blank">RTL</a>
+                    </div>
+                </div>
+                <h5 class="font-weight-bold mb-4 text-center">拉线3</h5>
+                <div class="overlay rounded-lg mb-8 offcanvas-demo offcanvas-demo-active">
+                    <div class="overlay-wrapper rounded-lg">
+                        @*<img src="https://preview.keenthemes.com/keen/theme/demo1/dist/assets/media/demos/demo1.png" alt="" class="w-100">*@
+                        <img src="~/Content/images/login.png" alt="" class="w-100">
+                    </div>
+                    <div class="overlay-layer">
+                        <a href="#" class="btn btn-white btn-text-primary btn-hover-primary font-weight-boldest text-center min-w-75px shadow" target="_blank">HTML</a>
+                        <a href="#" class="btn btn-white btn-text-primary btn-hover-primary font-weight-boldest text-center min-w-75px ml-3 shadow" target="_blank">RTL</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+<script src="~/Content/sweet/echart/echart5.2.2.min.js"></script>
+<script src="~/Content/sweet/axios/axios.min.js"></script>
+
+<script>
+    !function (module, define) {
+        var pieChart1, pieChart2, pieChart3, barChart, lineChart;
+
+        var app = new Vue({
+            el: '#vueApp',
+            data() {
+                return {
+                    fullScreen: false,
+                    time: null,
+                    title: null,
+                    per: null, pieChart1Data: null, pieChart2Data: null, pieChart3Data: null,
+                    barChartData: null,
+                    lineChartData: null,
+                    tableData: null
+                }
+            },
+            created() {
+                this.time = this.getStandardTime();
+                this.title = '拉线看板';
+                this.per = '20%';
+                this.tableData = [
+                    { Name: 'Vue', Description: 'Javascript', Date: '2021-12-30', Author: 'You', Popular: '98%' },
+                    { Name: 'Augular', Description: 'Javascript', Date: '2021-12-30', Author: 'Google', Popular: '98%' },
+                    { Name: 'React', Description: 'Javascript', Date: '2021-12-30', Author: 'Facebook', Popular: '98%' },
+                    { Name: 'JQuery', Description: 'Javascript', Date: '2021-12-30', Author: 'John Resig', Popular: '98%' }
+                ];
+            },
+            methods: {
+                requestFullScreen() {
+                    var de = document.documentElement;
+                    if (de.requestFullscreen) {
+                        de.requestFullscreen();
+                    } else if (de.mozRequestFullScreen) {
+                        de.mozRequestFullScreen();
+                    } else if (de.webkitRequestFullScreen) {
+                        de.webkitRequestFullScreen();
+                    };
+
+                    this.fullScreen = true;
+                },
+                exitFullscreen() {
+                    var de = document;
+                    if (de.exitFullscreen) {
+                        de.exitFullscreen();
+                    } else if (de.mozCancelFullScreen) {
+                        de.mozCancelFullScreen();
+                    } else if (de.webkitCancelFullScreen) {
+                        de.webkitCancelFullScreen();
+                    };
+
+                    this.fullScreen = false;
+                },
+                showSide() {
+                    this.$refs['overlay'].classList.add('active');
+                    this.$refs['side'].classList.add('active');
+                },
+                hideSide() {
+                    this.$refs['side'].classList.remove('active');
+                    this.$refs['overlay'].classList.remove('active');
+                },
+                getStandardTime() {
+                    let date, year, month, day, hour, minute, second;
+                    date = new Date();
+                    year = date.getFullYear();
+                    month = date.getMonth() + 1;
+                    day = date.getDate();
+                    hour = date.getHours();
+                    minute = date.getMinutes();
+                    second = date.getSeconds();
+                    return year + '-' + month.formatter() + '-' + day.formatter() + ' ' + hour.formatter() + ':' + minute.formatter() + ':' + second.formatter();
+                },
+                initPieChart1() {
+                    pieChart1 = echarts.init(document.getElementById('el-pie-two'));
+                    var option;
+
+                    option = {
+                        //title: {
+                        //    text: 'Referer of a Website',
+                        //    subtext: 'Fake Data',
+                        //    left: 'center'
+                        //},
+                        tooltip: {
+                            trigger: 'item'
+                        },
+                        //legend: {
+                        //    orient: 'vertical',
+                        //    left: 'left'
+                        //},
+                        series: [
+                            {
+                                name: 'Access From',
+                                type: 'pie',
+                                radius: '50%',
+                                data: [
+                                    { value: 1048, name: 'Search Engine' },
+                                    { value: 735, name: 'Direct' },
+                                    { value: 580, name: 'Email' },
+                                    { value: 484, name: 'Union Ads' },
+                                    { value: 300, name: 'Video Ads' }
+                                ],
+                                emphasis: {
+                                    itemStyle: {
+                                        shadowBlur: 10,
+                                        shadowOffsetX: 0,
+                                        shadowColor: 'rgba(0, 0, 0, 0.5)'
+                                    }
+                                }
+                            }
+                        ]
+                    };
+
+                    option && pieChart1.setOption(option);
+                },
+                initPieChart2() {
+                    pieChart2 = echarts.init(document.getElementById('el-pie-three'));
+                    var option;
+
+                    option = {
+                        //title: {
+                        //    text: 'Referer of a Website',
+                        //    subtext: 'Fake Data',
+                        //    left: 'center'
+                        //},
+                        tooltip: {
+                            trigger: 'item'
+                        },
+                        //legend: {
+                        //    orient: 'vertical',
+                        //    left: 'left'
+                        //},
+                        series: [
+                            {
+                                name: 'Access From',
+                                type: 'pie',
+                                radius: '50%',
+                                data: [
+                                    { value: 1048, name: 'Search Engine' },
+                                    { value: 735, name: 'Direct' },
+                                    { value: 580, name: 'Email' },
+                                    { value: 484, name: 'Union Ads' },
+                                    { value: 300, name: 'Video Ads' }
+                                ],
+                                emphasis: {
+                                    itemStyle: {
+                                        shadowBlur: 10,
+                                        shadowOffsetX: 0,
+                                        shadowColor: 'rgba(0, 0, 0, 0.5)'
+                                    }
+                                }
+                            }
+                        ]
+                    };
+
+                    option && pieChart2.setOption(option);
+                },
+                initPieChart3() {
+                    pieChart3 = echarts.init(document.getElementById('el-pie-four'));
+                    var option;
+
+                    option = {
+                        //title: {
+                        //    text: 'Referer of a Website',
+                        //    subtext: 'Fake Data',
+                        //    left: 'center'
+                        //},
+                        tooltip: {
+                            trigger: 'item'
+                        },
+                        //legend: {
+                        //    orient: 'vertical',
+                        //    left: 'left'
+                        //},
+                        series: [
+                            {
+                                name: 'Access From',
+                                type: 'pie',
+                                radius: '50%',
+                                data: [
+                                    { value: 1048, name: 'Search Engine' },
+                                    { value: 735, name: 'Direct' },
+                                    { value: 580, name: 'Email' },
+                                    { value: 484, name: 'Union Ads' },
+                                    { value: 300, name: 'Video Ads' }
+                                ],
+                                emphasis: {
+                                    itemStyle: {
+                                        shadowBlur: 10,
+                                        shadowOffsetX: 0,
+                                        shadowColor: 'rgba(0, 0, 0, 0.5)'
+                                    }
+                                }
+                            }
+                        ]
+                    };
+
+                    option && pieChart3.setOption(option);
+                },
+                initBarChart() {
+                    barChart = echarts.init(document.getElementById('el-bar-chart'));
+                    var option;
+                    option = {
+                        tooltip: {
+                            trigger: 'axis',
+                            axisPointer: {
+                                type: 'cross',
+                                crossStyle: {
+                                    color: '#999'
+                                }
+                            }
+                        },
+                        toolbox: {
+                            //feature: {
+                            //    dataView: { show: true, readOnly: false },
+                            //    magicType: { show: true, type: ['line', 'bar'] },
+                            //    restore: { show: true },
+                            //    saveAsImage: { show: true }
+                            //}
+                        },
+                        legend: {
+                            data: ['Evaporation', 'Precipitation', 'Temperature', 'A', 'B', 'C']
+                        },
+                        xAxis: [
+                            {
+                                type: 'category',
+                                data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+                                axisPointer: {
+                                    type: 'shadow'
+                                }
+                            }
+                        ],
+                        yAxis: [
+                            {
+                                type: 'value',
+                                name: 'Precipitation',
+                                min: 0,
+                                max: 250,
+                                interval: 50,
+                                axisLabel: {
+                                    formatter: '{value} ml'
+                                }
+                            },
+                            {
+                                type: 'value',
+                                name: 'Temperature',
+                                min: 0,
+                                max: 25,
+                                interval: 5,
+                                axisLabel: {
+                                    formatter: '{value} °C'
+                                }
+                            }
+                        ],
+                        series: [
+                            {
+                                name: 'Evaporation',
+                                type: 'bar',
+                                data: [
+                                    2.0, 4.9, 7.0, 23.2, 25.6, 76.7, 135.6, 162.2, 32.6, 20.0, 6.4, 3.3
+                                ]
+                            },
+                            {
+                                name: 'Precipitation',
+                                type: 'bar',
+                                data: [
+                                    2.6, 5.9, 9.0, 26.4, 28.7, 70.7, 175.6, 182.2, 48.7, 18.8, 6.0, 2.3
+                                ]
+                            },
+                            {
+                                name: 'Temperature',
+                                type: 'line',
+                                yAxisIndex: 1,
+                                data: [2.0, 2.2, 3.3, 4.5, 6.3, 10.2, 20.3, 23.4, 23.0, 16.5, 12.0, 6.2]
+                            },
+                            {
+                                name: 'A',
+                                type: 'bar',
+                                data: [
+                                    2.0, 4.9, 7.0, 23.2, 25.6, 76.7, 135.6, 162.2, 32.6, 20.0, 6.4, 3.3
+                                ]
+                            },
+                            {
+                                name: 'B',
+                                type: 'bar',
+                                data: [
+                                    2.0, 4.9, 7.0, 23.2, 25.6, 76.7, 135.6, 162.2, 32.6, 20.0, 6.4, 3.3
+                                ]
+                            },
+                            {
+                                name: 'C',
+                                type: 'bar',
+                                data: [
+                                    2.0, 4.9, 7.0, 23.2, 25.6, 76.7, 135.6, 162.2, 32.6, 20.0, 6.4, 3.3
+                                ]
+                            },
+                        ]
+                    };
+
+                    option && barChart.setOption(option);
+                },
+                initLineChart() {
+                    lineChart = echarts.init(document.getElementById('el-line-chart'));
+                    var option;
+
+                    option = {
+                        //title: {
+                        //    text: 'Stacked Line'
+                        //},
+                        tooltip: {
+                            trigger: 'axis'
+                        },
+                        legend: {
+                            data: ['Email', 'Union Ads', 'Video Ads']
+                        },
+                        grid: {
+                            left: '3%',
+                            right: '4%',
+                            bottom: '3%',
+                            containLabel: true
+                        },
+                        toolbox: {
+                            feature: {
+                                saveAsImage: {}
+                            }
+                        },
+                        xAxis: {
+                            type: 'category',
+                            boundaryGap: false,
+                            data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+                        },
+                        yAxis: {
+                            type: 'value'
+                        },
+                        series: [
+                            {
+                                name: 'Email',
+                                type: 'line',
+                                stack: 'Total',
+                                data: [120, 132, 101, 134, 90, 230, 210]
+                            },
+                            {
+                                name: 'Union Ads',
+                                type: 'line',
+                                stack: 'Total',
+                                data: [220, 182, 191, 234, 290, 330, 310]
+                            },
+                            {
+                                name: 'Video Ads',
+                                type: 'line',
+                                stack: 'Total',
+                                data: [150, 232, 201, 154, 190, 330, 410]
+                            }
+                        ]
+                    };
+
+                    option && lineChart.setOption(option);
+                },
+                loadData() {
+                    //axios.get('/user', {
+                    //    params: {
+                    //        ID: 12345
+                    //    }
+                    //})
+                    //    .then(function (response) {
+                    //        console.log(response);
+                    //    })
+                    //    .catch(function (error) {
+                    //        console.log(error);
+                    //    });
+                }
+            },
+            mounted() {
+                let $vue = this;
+
+                this.loadData();
+
+                //document.addEventListener('visibilitychange', function (e) {
+                //    if (document.visibilityState == 'hidden') {
+
+                //    } else {
+
+                //    }
+                //});
+
+                setInterval(function () {
+                    $vue.time = $vue.getStandardTime();
+                }, 1000);
+
+                this.initPieChart1();
+                this.initPieChart2();
+                this.initPieChart3();
+                this.initBarChart();
+                this.initLineChart();
+
+                setTimeout(function () {
+                    window.onresize = function () {
+                        pieChart1.resize();
+                        pieChart2.resize();
+                        pieChart3.resize();
+                        barChart.resize();
+                        lineChart.resize();
+                    }
+                }, 300);
+
+                this.$refs['content'].classList.add('active');
+            }
+        });
+
+        app.$watch('pieChart1Data', function () {
+            //do somethings
+        });
+
+        app.$watch('pieChart2Data', function () {
+            //do somethings
+        });
+
+        app.$watch('pieChart3Data', function () {
+            //do somethings
+        });
+
+        app.$watch('barChartData', function () {
+            //do somethings
+        });
+
+        app.$watch('lineChartData', function () {
+            //do somethings
+        });
+
+        app.$watch('tableData', function () {
+            //do somethings
+        });
+    }(this, function () {
+        Number.prototype.formatter = function () {
+            let number = this;
+            if (number >= 10) {
+                return number;
+            } else {
+                return '0' + number;
+            }
+        };
+    }());
+</script>

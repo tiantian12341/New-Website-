@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "邮件管理";
+    Layout = "~/Views/Shared/_Index.cshtml";
+}
+<div id="sp_layout" class="sp-layout sp-layout-left-center">
+    <div class="sp-layout-left">
+        <div class="sp-layout-wrap sp-layout-wrap-notitle" style="padding-top:10px;">
+            <div class="sp-layout-body">
+                <ul class="sp-left-list" id="sp_left_list">
+                    <li class="splg" data-value="1">写邮件</li>
+                    <li data-value="2" class="active splg">收件箱</li>
+                    <li data-value="3" class="splg">邮箱配置</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="sp-layout-center">
+        <div class="sp-layout-wrap sp-layout-wrap-notitle">
+            <div class="sp-layout-tool">
+                <div class="sp-layout-tool-left">
+                    <div class="sp-layout-tool-item">
+                        <div id="datesearch" class="datetime"></div>
+                    </div>
+                    <div class="sp-layout-tool-item">
+                        <input id="txt_Keyword" type="text" class="form-control" placeholder="请输入要查询关键字" />
+                    </div>
+                    <div class="sp-layout-tool-item">
+                        <a id="btn_Search" class="btn btn-primary btn-sm"><i class="fa fa-search"></i>&nbsp;<span class="splg">查询</span></a>
+                    </div>
+                </div>
+                <div class="sp-layout-tool-right">
+                    <div class=" btn-group btn-group-sm">
+                        <a id="sp_refresh" class="btn btn-default"><i class="fa fa-refresh"></i></a>
+                    </div>
+                    <div class=" btn-group btn-group-sm" sp-authorize="yes">
+                        <a id="sp_getemail" class="btn btn-default"><i class="fa fa-eraser"></i>&nbsp;<span class="splg">收邮件</span></a>
+                        <a id="sp_sendemail" class="btn btn-default"><i class="fa fa-eraser"></i>&nbsp;<span class="splg">写邮件</span></a>
+                        <a id="sp_detail" class="btn btn-default"><i class="fa fa-eraser"></i>&nbsp;<span class="splg">查看</span></a>
+                        <a id="sp_delete" class="btn btn-default"><i class="fa fa-eraser"></i>&nbsp;<span class="splg">删除</span></a>
+                    </div>
+                </div>
+            </div>
+            <div class="sp-layout-body" id="sendtable">
+            </div>
+            <div class="sp-layout-body" id="receivetable">
+            </div>
+            <div class="sp-layout-body" id="gridtable" style="display:none">
+            </div>
+        </div>
+    </div>
+</div>
+
+@Html.AppendJsFile("/Areas/LR_OAModule/Views/Email/Index.js")
+

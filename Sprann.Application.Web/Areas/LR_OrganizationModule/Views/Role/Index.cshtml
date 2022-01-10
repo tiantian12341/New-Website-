@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "角色管理";
+    Layout = "~/Views/Shared/_Index.cshtml";
+}
+<div class="sp-layout">
+    <div class="sp-layout-center">
+        <div class="sp-layout-wrap sp-layout-wrap-notitle">
+            <div class="sp-layout-tool">
+                <div class="sp-layout-tool-left">
+                    <div class="sp-layout-tool-item">
+                        <input id="txt_Keyword" type="text" class="form-control" placeholder="请输入要查询关键字" />
+                    </div>
+                    <div class="sp-layout-tool-item">
+                        <a id="btn_Search" class="btn btn-primary btn-sm"><i class="fa fa-search"></i>&nbsp;<span class="splg">查询</span></a>
+                    </div>
+                </div>
+                <div class="sp-layout-tool-right">
+                    <div class=" btn-group btn-group-sm">
+                        <a id="sp_refresh" class="btn btn-default"><i class="fa fa-refresh"></i></a>
+                    </div>
+                    <div class=" btn-group btn-group-sm" sp-authorize="yes">
+                        <a id="sp_add" class="btn btn-default"><i class="fa fa-plus"></i>&nbsp;<span class="splg">新增</span></a>
+                        <a id="sp_edit" class="btn btn-default"><i class="fa fa-pencil-square-o"></i>&nbsp;<span class="splg">编辑</span></a>
+                        <a id="sp_delete" class="btn btn-default"><i class="fa fa-trash-o"></i>&nbsp;<span class="splg">删除</span></a>
+                        <a id="sp_more" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                            <i class="fa fa-reorder"></i>&nbsp;<span class="splg">更多</span><span class="caret"></span>
+</a>
+                        <ul class="dropdown-menu pull-right">
+                            <li id="sp_memberadd"><a><i></i>&nbsp;<span class="splg">添加成员</span></a></li>
+                            <li id="sp_memberlook"><a><i></i>&nbsp;<span class="splg">查看成员</span></a></li>
+                            <li id="sp_authorize"><a><i></i>&nbsp;<span class="splg">功能授权</span></a></li>
+                            <li id="sp_dataauthorize"><a><i></i>&nbsp;<span class="splg">数据授权</span></a></li>
+                            <li id="sp_appauthorize"><a><i></i>&nbsp;<span class="splg">移动功能授权</span></a></li>
+                        </ul>
+                    </div>
+                    
+
+                    <div class="btn-group btn-group-sm" sp-authorize="yes">
+                        <a id="sp_appfilter" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                            <i class="fa fa-filter"></i>&nbsp;<span class="splg">访问过滤</span><span class="caret"></span>
+</a>
+                        <ul class="dropdown-menu pull-right">
+                            <li id="sp_ipfilter"><a><i></i>&nbsp;<span class="splg">IP过滤</span></a></li>
+                            <li id="sp_timefilter"><a><i></i>&nbsp;<span class="splg">时段过滤</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sp-layout-body" id="gridtable"></div>
+        </div>
+    </div>
+</div>
+@Html.AppendJsFile("/Areas/LR_OrganizationModule/Views/Role/Index.js")

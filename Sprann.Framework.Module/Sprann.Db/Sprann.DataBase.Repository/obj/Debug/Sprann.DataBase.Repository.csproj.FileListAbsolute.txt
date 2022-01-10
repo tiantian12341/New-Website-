@@ -1,0 +1,198 @@
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+C:\Users\tao_d\Desktop\新建文件夹 (3)\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+E:\工作\客户\Y英城\源代码\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+D:\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+E:\Working\Project\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+E:\Working\Project\Bogie\MES-BS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+E:\Working\Project\Bogie\DMSs\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+D:\Project\Bogie\DMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+D:\Project\DMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+D:\Project\DMS\Web\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+D:\Project\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+D:\Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+D:\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+C:\Sweet\Customer Project\东丽塑胶\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+C:\Sweet\Customer Project\中核\MES\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+B:\Sea\MES\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+F:\ZHENG\鸿利达\mes\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+F:\ZHENG\鸿利达\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+B:\Sea\鸿利达\PMS\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+B:\Sea\鸿利达\PMS\pms\pms\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+B:\Sea\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+B:\Sea\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+B:\Sea\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+B:\Sea\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+B:\Sea\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+B:\Sea\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+B:\Sea\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+B:\Sea\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+D:\Work\鸿利达\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.AssemblyReference.cache
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\鸿利达_8123\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.AssemblyReference.cache
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+F:\Mask\1.各个项目\H鸿利达-项目管理--项目\PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+C:\Users\Sweet\Desktop\鸿利达项目管理PMS\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll.config
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Db\publish\Sprann.DataBase.Repository.pdb
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csprojAssemblyReference.cache
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.csproj.CopyComplete
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.dll
+C:\Users\Sweet\Desktop\Website\Sprann.Framework.Module\Sprann.Db\Sprann.DataBase.Repository\obj\Debug\Sprann.DataBase.Repository.pdb

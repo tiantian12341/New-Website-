@@ -1,0 +1,253 @@
+﻿body {
+    background-color: initial;
+}
+
+.sp-form-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #ffffff;
+    z-index: 100;
+}
+/*基本表单提交样式*/
+.sp-form-wrap {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 15px 30px 0px 0px;
+}
+    .sp-form-wrap.sp-scroll-wrap {
+        padding:0;
+    }
+        .sp-form-wrap.sp-scroll-wrap > .sp-scroll-box {
+            padding: 15px 30px 0px 0px;
+        }
+
+.sp-form-item {
+    position: relative;
+    min-height: 38px;
+    padding: 5px 0px 5px 100px;
+}
+
+.sp-form-item > label {font-weight: normal!important;}
+
+.sp-form-item-title {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100%;
+    line-height: 38px;
+    text-align: right;
+    padding-right: 10px;
+}
+.sp-form-item-title > font {
+    position: absolute;
+    top: 0;
+    right: 2px;
+    color: red;
+}
+
+
+.sp-form-item .checkbox,.sp-form-item .radio {
+    moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+    margin-top: 6px;
+    margin-bottom: 0;
+}
+.sp-form-item .checkbox input[type=checkbox], .sp-form-item .radio input[type=radio] {
+    margin-top: 3px;
+    margin-left:-15px;
+}
+
+.sp-form-item-grid {
+    padding:10px 0 10px 40px;
+    z-index:0;
+}
+.sp-form-item-grid .jfgrid-layout {
+    border:1px solid #ddd;
+}
+
+.sp-input-underline {
+    border:0px;
+    border-bottom:1px solid #ccc;
+    border-radius:0px;
+}
+.sp-select-underline {
+    border-radius: 0px;
+    border-color: #fff !important;
+    border-bottom: 1px solid #ccc !important;
+}
+
+.sp-input-button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 16px;
+    height: 100%;
+    line-height: 28px;
+    cursor: pointer;
+    overflow: hidden;
+    z-index: 10;
+}
+.sp-input-wdatepicker {
+    background: url(/Content/images/datepicker_icon.png) right 0 no-repeat #FFF;
+}
+.sp-input-wdatepicker.sp-field-error {
+    background: none;
+}
+.sp-form-btnitem {
+    padding-right:80px;
+}
+.sp-form-item-btn {
+    position:absolute;
+    top:4px;
+    right:0;
+    padding:4px 8px;
+}
+
+
+.sp-form-layout {
+    position:relative;
+    width:100%;
+    height:100%;
+}
+.sp-form-layout-top-bottom {
+    padding-top:44px;
+}
+.sp-form-layout-header {
+    position:absolute;
+    top:0;
+    left:0;
+    height:44px;
+    width:100%;
+
+    padding:5px;
+}
+.sp-form-layout-body {
+    position:relative;
+    width:100%;
+    height:100%;
+}
+.sp-form-layout-body-title {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:30px;
+    line-height:29px;
+    background-color:#F5F5F5;
+    border-bottom:1px solid #ccc;
+    text-align:right;
+    padding-right:10px;
+    font-weight:bold;
+    color:#676a6c;
+}
+
+.sp-form-jfgrid-btns {
+    position:absolute;
+    height:100%;
+    line-height:24px;
+    top:0;
+    left:0;
+    padding-left:5px;
+}
+.sp-form-jfgrid-btns .btn {
+    padding: 1px 4px;
+}
+
+
+.sp-form-bottom-button {
+    moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+    position: absolute;
+    height: 39px;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    text-align: right;
+    padding: 5px 5px 0px 0px;
+    border-top: 1px solid #eee;
+    border-radius: 0 0 4px 4px;
+    background-color: #F8f8f8;
+    z-index:2;
+}
+.sp-form-bottom-button > .btn {
+    padding: 3px 10px;
+}
+
+
+.sp-form-area > div {
+    padding-right:2px;
+}
+
+.sp-form-tab a {
+     moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+    cursor:pointer!important;
+}
+
+.sys_spec_text{padding-left:15px;-moz-user-select: none;-webkit-user-select: none;-ms-user-select: none;-khtml-user-select: none;user-select: none;}
+.sys_spec_text li{position:relative;outline:none;display:inline;float:left;height:46px;position:relative;margin:10px 10px 0px 0;outline:none;}
+.sys_spec_text li a{cursor:pointer;vertical-align:middle;text-align:center;word-break:keep-all;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;height:39px;line-height:38px;width:100px;text-align:center;padding:0px 0px;border:1px solid #ccc;border-radius: 3px;background:#fff;display:inline-block;outline:none;}
+.sys_spec_text li a:hover{padding:0 0px;text-decoration:none;}
+.sys_spec_text li.active a{color: #ff5d5b;border: 1px solid #ff5d5b;padding:0 0px;background: url(/Content/images/selected_red.png) right top no-repeat;}
+
+
+/*表单验证显示错误字段信息*/
+.sp-field-error {
+    border-color:#ff5d48!important;
+}
+
+.sp-field-error-info {
+    position: absolute;
+    top: 8px;
+    right: 3px;
+    color: #ff5d48;
+    font-size: 16px;
+    background-color: #fff;
+    cursor:pointer;
+}
+.sp-form-btnitem .sp-field-error-info {
+     right: 83px;
+}
+
+/*选项卡设置*/
+.sp-form-tabs {
+    position:absolute;
+    width:100%;
+    height:44px;
+    top:0;
+    left:0;
+    padding:5px 5px 0px 5px;
+}
+.sp-form-tabs li {
+    white-space: nowrap;
+    display: inline-block!important;
+    float: initial;
+    cursor:pointer;
+}
+.sp-form-tabs .nav-tabs {
+    white-space: nowrap;
+}
+.sp-form-tabs .mCS-minimal-dark.mCSB_scrollTools_horizontal {
+    top:32px;
+}
+.sp-tab-content,.sp-tab-content>div {
+    position:relative;
+    width:100%;
+    height:100%;
+}
+
+

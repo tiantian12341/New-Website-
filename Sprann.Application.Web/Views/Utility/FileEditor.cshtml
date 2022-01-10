@@ -1,0 +1,101 @@
+﻿@{
+    ViewBag.Title = "PCDevGuideIndex";
+    Layout = "~/Views/Shared/_CodeBulidForm.cshtml";
+}
+@Html.AppendCssFile("/Areas/LR_CodeGeneratorModule/Views/TemplatePC/FastCodeIndex.css")
+<div class="widget-body">
+    <div id="wizard" class="wizard">
+        <div class="panel panel-default">
+            <div class="col-xs-6 sp-form-item">
+                <div class="sp-form-item-title">文件路径</div>
+                <input id="jsViewUrl" type="text" class="form-control" placeholder="视图Js文件路径" isvalid="yes" checkexpession="NotNull" value="@ViewBag.fileUrl" />
+            </div>
+            <div class="col-xs-6 sp-form-item" style="padding-left:10px;min-height:20px;">
+                <a id="btn_load" class="btn btn-default">加 载</a>
+            </div>
+        </div>
+    </div>
+    <div class="step-content" style="padding-top:49px;">
+        <ul class="nav nav-tabs sp-form-tab" id="nav_tabs">
+            <li class="active"><a data-value="formJsCodediv">预 览</a></li>
+            <li><a data-value="entityCodediv">源 码</a></li>
+        </ul>
+        <div class="tab-content" id="tab_content">
+            <div id="formJsCodediv" class="tab-pane active"><div id="formJsCode"></div></div>
+            <div id="entityCodediv" class="tab-pane"><div id="entityCode"><textarea id="jsCodeRaw"></textarea></div></div>
+        </div>
+    </div>
+    <div class="sp-form-bottom-button">
+        <a id="btn_save" class="btn btn-success">保 存</a>
+    </div>
+</div>
+<script language="javascript">
+    var bootstrap = function ($, sp) {
+        "use strict";
+        var page = {
+            init: function () {
+                page.bind();
+                $('#nav_tabs').spFormTabEx();
+                //$('#formJsCode').spscroll();
+
+                $('#jsCodeRaw').change(function () {
+                    var myObj = $(this);
+                    $('div.syntaxhighlighter').remove();
+                    page.refreshSyntaxHighlighter(myObj.val());
+                });
+
+                $('#entityCodediv').resize(function () {
+                    var conDiv = $('#entityCodediv');
+                    $('#jsCodeRaw').css({ width: conDiv.width() - 5, height: conDiv.height() - 5 });
+                });
+
+                $('#btn_load').click(function () {
+                    page.loadJsViewFile($('#jsViewUrl').val());
+                });
+
+                $('#btn_save').click(function () {
+                    var fileUrl = $('#jsViewUrl').val();
+                    var myContent = $('#jsCodeRaw').val();
+                    sp.httpAsyncPost(top.$.rootUrl + '/Utility/SetFileContent', { urlPath: fileUrl, content: myContent }, function (res) {
+                        if (res.code == 200) {
+                            top.layer.msg('文件保存成功！');
+                        }
+                        else {
+                            top.layer.msg(res.info);
+                        }
+                    });
+                });
+
+            },
+
+            refreshSyntaxHighlighter: function (txt, brush) {
+                $('#formJsCode').html('<textarea name="SyntaxHighlighter" class="brush:' + (brush ||'javascript') +';"></textarea>');
+                $('#formJsCode [name="SyntaxHighlighter"]').text(txt);
+                var conDiv = $('#entityCodediv');
+                $('#jsCodeRaw').css({ width: conDiv.width() - 5, height: conDiv.height() - 5 }).val(txt);
+                SyntaxHighlighter.highlight();
+            },
+
+            loadJsViewFile: function (url) {
+                sp.httpAsyncPost(top.$.rootUrl + '/Utility/TextFileContent', { urlPath:url}, function (res) {
+                    if (res.code == 200) {
+                        page.refreshSyntaxHighlighter(res.info);
+                    }
+                    else {
+                        top.layer.msg(res.info);
+                    }
+                });
+            },
+
+            /*绑定事件和初始化控件*/
+            bind: function () {
+                // 基础信息配置
+                var loginInfo = sp.clientdata.get(['userinfo']);
+                //console.log(loginInfo);
+                page.loadJsViewFile('@ViewBag.fileUrl');
+            }
+        };
+        page.init();
+    }
+</script>
+
